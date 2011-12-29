@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[gzruby]]></title>
+  <link href="http://gzruby.github.com/atom.xml" rel="self"/>
+  <link href="http://gzruby.github.com/"/>
+  <updated>2011-12-28T18:21:47+08:00</updated>
+  <id>http://gzruby.github.com/</id>
+  <author>
+    <name><![CDATA[gzruby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[puts 'Hello World']]></title>
+    <link href="http://gzruby.github.com/blog/2011/12/28/hello-world/"/>
+    <updated>2011-12-28T16:43:00+08:00</updated>
+    <id>http://gzruby.github.com/blog/2011/12/28/hello-world</id>
+    <content type="html"><![CDATA[<p>Testing out the new blog. So far <a href="http://octopress.org/">Octopress</a> is very impressive.</p>
+]]></content>
+  </entry>
+  
+</feed>
