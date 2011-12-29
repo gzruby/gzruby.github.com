@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[gzruby]]></title>
-  <link href="http://gzruby.github.com/atom.xml" rel="self"/>
-  <link href="http://gzruby.github.com/"/>
-  <updated>2011-12-28T18:21:47+08:00</updated>
-  <id>http://gzruby.github.com/</id>
+  <link href="http://www.gzruby.com/atom.xml" rel="self"/>
+  <link href="http://www.gzruby.com/"/>
+  <updated>2011-12-29T12:31:24+08:00</updated>
+  <id>http://www.gzruby.com/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
     
@@ -14,11 +14,45 @@
 
   
   <entry>
-    <title type="html"><![CDATA[puts 'Hello World']]></title>
-    <link href="http://gzruby.github.com/blog/2011/12/28/hello-world/"/>
-    <updated>2011-12-28T16:43:00+08:00</updated>
-    <id>http://gzruby.github.com/blog/2011/12/28/hello-world</id>
-    <content type="html"><![CDATA[<p>Testing out the new blog. So far <a href="http://octopress.org/">Octopress</a> is very impressive.</p>
+    <title type="html"><![CDATA[gzruby meetup #3]]></title>
+    <link href="http://www.gzruby.com/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup/"/>
+    <updated>2011-12-29T11:27:00+08:00</updated>
+    <id>http://www.gzruby.com/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup</id>
+    <content type="html"><![CDATA[<p><img src="images/seb_gzruby.jpeg" style="width: 800px" alt="Image of Seb with a slide" title="Seb explains his scaling methods" /></p>
+
+<p>Thanks to everyone who attended the <strong>gzruby</strong> meetup last wednesday night. It was great to get a chance to meet up with our ruby friends and we also met a lot of new people. It‘s exciting to see how the community is growing as we gain new members and introduce more people to the joys of ruby.</p>
+
+<p>非常感谢大家抽空过来参加昨晚的<strong>gzruby</strong>聚会。不仅可以跟使用ruby的老友记们交流，而且也是一次认识新朋友的好机会。很高兴看到使用<strong>ruby</strong>的朋友越来越多，并且可以相互分享当中的快乐。</p>
+
+<p>The presentations included / 以下是大家的一些分享：</p>
+
+<ul>
+<li>Launch of <strong><a href="http://gems.gzruby.org">http://gems.gzruby.org</a></strong>, the GZRUBY rubygems mirror</li>
+<li><strong>Real Life Rails Scaling</strong>, by <a href="http://cn.linkedin.com/in/sebastianroth">Seb</a>. Scaling your app, your team, and yourself. (<a href="http://www.slideshare.net/SebastianRoth/rails-scaling">slides</a>)</li>
+<li><strong>method_proxy</strong> - some fun with ruby&#8217;s dynamic programming, by <a href="http://github.com/jevgz">Jev</a>. A look at how we can utilize ruby&#8217;s meta-programming features to get deep insight into our code. (<a href="https://github.com/kudelabs/method_proxy">method_proxy sample code</a>, <a href="https://github.com/downloads/kudelabs/method_proxy/method_proxy-at-GZ-Ruby-Conf-Nov2011.odp">slides</a>)</li>
+<li><strong>Cloud Service API design</strong>, by <a href="http://cn.linkedin.com/in/chancejiang">Chance Jiang</a></li>
+</ul>
+
+
+<p>Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</strong>! See you all next year.</p>
+
+<p>让我们一起期待下一次<strong>gzruby</strong>聚会，2012年1月18日（预计）。
+明年见！</p>
+
+<p>Photo by/ 照片提供：<a href="http://www.weibo.com/littlepxy">littlepxy</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing gzruby]]></title>
+    <link href="http://www.gzruby.com/blog/2011/12/29/announcing-gzruby/"/>
+    <updated>2011-12-29T11:27:00+08:00</updated>
+    <id>http://www.gzruby.com/blog/2011/12/29/announcing-gzruby</id>
+    <content type="html"><![CDATA[<p>After witnessing the success of the <a href="http://techparty.org">GZ Tech Party</a> events and filled with enthusiasm from the great <a href="http://reddotrubyconf.com">Red Dot Ruby Conf</a>, some of the ruby developers in Guangzhou decided it was time to start a ruby group for ourselves. A support group, if you will, for developers who have decided to branch out and work with what could still be considered an &#8220;alternative&#8221; language. The few, the proud, the willing!</p>
+
+<p>Since our first meeting with over 20 attendees, <strong>gzruby</strong> has become a welcome event on the Guangzhou tech calendar. We host a variety of people, from die-hard ruby and rails hackers to students interested in new languages. We even have visitors from the Python and Android user groups at times. Mostly, its a chance for smart developers to get together, share war stories, and learn from each other.</p>
+
+<p>There is a great well of talent here in Guangzhou, and the aim of <strong>gzruby</strong> is to provide a place for that talent to grow, to find colleagues, and to make GZ a better place to live and work for all of us.</p>
 ]]></content>
   </entry>
   
