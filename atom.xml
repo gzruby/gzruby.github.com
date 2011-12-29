@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://gzruby.github.com/atom.xml" rel="self"/>
   <link href="http://gzruby.github.com/"/>
-  <updated>2011-12-29T13:38:29+08:00</updated>
+  <updated>2011-12-29T13:48:14+08:00</updated>
   <id>http://gzruby.github.com/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -20,11 +20,10 @@
     <id>http://gzruby.github.com/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup</id>
     <content type="html"><![CDATA[<p><img src="images/seb_gzruby.jpeg" style="width: 800px" alt="Image of Seb with a slide" title="Seb explains his scaling methods" /></p>
 
-<p>Thanks to everyone who attended the <strong>gzruby</strong> meetup last wednesday night. It was great to get a chance to meet up with our ruby friends and we also met a lot of new people. It‘s exciting to see how the community is growing as we gain new members and introduce more people to the joys of ruby.</p>
+<p>非常感谢大家抽空过来参加昨晚的<strong>gzruby</strong>聚会。不仅可以跟使用ruby的老友记们交流，而且也是一次认识新朋友的好机会。很高兴看到使用<strong>ruby</strong>的朋友越来越多，并且可以相互分享当中的快乐<br />
+Thanks to everyone who attended the <strong>gzruby</strong> meetup last wednesday night. It was great to get a chance to meet up with our ruby friends and we also met a lot of new people. It‘s exciting to see how the community is growing as we gain new members and introduce more people to the joys of ruby.</p>
 
-<p>非常感谢大家抽空过来参加昨晚的<strong>gzruby</strong>聚会。不仅可以跟使用ruby的老友记们交流，而且也是一次认识新朋友的好机会。很高兴看到使用<strong>ruby</strong>的朋友越来越多，并且可以相互分享当中的快乐。</p>
-
-<p>The presentations included / 以下是大家的一些分享：</p>
+<p> 以下是大家的一些分享 / The presentations included:</p>
 
 <ul>
 <li>Launch of <strong><a href="http://gems.gzruby.org">http://gems.gzruby.org</a></strong>, the GZRUBY rubygems mirror</li>
@@ -34,10 +33,9 @@
 </ul>
 
 
-<p>Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</strong>! See you all next year.</p>
-
-<p>让我们一起期待下一次<strong>gzruby</strong>聚会，2012年1月18日（预计）。
-明年见！</p>
+<p>让我们一起期待下一次<strong>gzruby</strong>聚会，2012年1月18日（预计）.
+明年见<br />
+Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</strong>! See you all next year.</p>
 
 <p>Photo by/ 照片提供：<a href="http://www.weibo.com/littlepxy">littlepxy</a></p>
 ]]></content>
