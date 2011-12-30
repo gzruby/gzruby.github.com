@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2011-12-30T12:29:03+08:00</updated>
+  <updated>2011-12-30T15:46:17+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[第三次聚会 ／ gzruby meetup #3]]></title>
+    <title type="html"><![CDATA[第三次聚会/gzruby meetup #3]]></title>
     <link href="http://www.gzruby.org/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup/"/>
     <updated>2011-12-29T11:27:00+08:00</updated>
     <id>http://www.gzruby.org/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup</id>
