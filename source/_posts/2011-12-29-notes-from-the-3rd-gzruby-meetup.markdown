@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gzruby meetup #3"
+title: "第三次聚会 ／ gzruby meetup #3"
 date: 2011-12-29 11:27
 comments: true
 categories: 
