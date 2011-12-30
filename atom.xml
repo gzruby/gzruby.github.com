@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[gzruby]]></title>
-  <link href="http://gzruby.github.com/atom.xml" rel="self"/>
-  <link href="http://gzruby.github.com/"/>
-  <updated>2011-12-29T13:48:14+08:00</updated>
-  <id>http://gzruby.github.com/</id>
+  <link href="http://www.gzruby.org/atom.xml" rel="self"/>
+  <link href="http://www.gzruby.org/"/>
+  <updated>2011-12-30T11:54:37+08:00</updated>
+  <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[gzruby meetup #3]]></title>
-    <link href="http://gzruby.github.com/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup/"/>
+    <title type="html"><![CDATA[第三次聚会 ／ gzruby meetup #3]]></title>
+    <link href="http://www.gzruby.org/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup/"/>
     <updated>2011-12-29T11:27:00+08:00</updated>
-    <id>http://gzruby.github.com/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup</id>
+    <id>http://www.gzruby.org/blog/2011/12/29/notes-from-the-3rd-gzruby-meetup</id>
     <content type="html"><![CDATA[<p><img src="images/seb_gzruby.jpeg" style="width: 800px" alt="Image of Seb with a slide" title="Seb explains his scaling methods" /></p>
 
 <p>非常感谢大家抽空过来参加昨晚的<strong>gzruby</strong>聚会。不仅可以跟使用ruby的老友记们交流，而且也是一次认识新朋友的好机会。很高兴看到使用<strong>ruby</strong>的朋友越来越多，并且可以相互分享当中的快乐<br />
@@ -43,9 +43,9 @@ Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</st
   
   <entry>
     <title type="html"><![CDATA[Announcing gzruby]]></title>
-    <link href="http://gzruby.github.com/blog/2011/12/29/announcing-gzruby/"/>
+    <link href="http://www.gzruby.org/blog/2011/12/29/announcing-gzruby/"/>
     <updated>2011-12-29T11:27:00+08:00</updated>
-    <id>http://gzruby.github.com/blog/2011/12/29/announcing-gzruby</id>
+    <id>http://www.gzruby.org/blog/2011/12/29/announcing-gzruby</id>
     <content type="html"><![CDATA[<p>After witnessing the success of the <a href="http://techparty.org">GZ Tech Party</a> events and filled with enthusiasm from the great <a href="http://reddotrubyconf.com">Red Dot Ruby Conf</a>, some of the ruby developers in Guangzhou decided it was time to start a ruby group for ourselves. A support group, if you will, for developers who have decided to branch out and work with what could still be considered an &#8220;alternative&#8221; language. The few, the proud, the willing!</p>
 
 <p>Since our first meeting with over 20 attendees, <strong>gzruby</strong> has become a welcome event on the Guangzhou tech calendar. We host a variety of people, from die-hard ruby and rails hackers to students interested in new languages. We even have visitors from the Python and Android user groups at times. Mostly, its a chance for smart developers to get together, share war stories, and learn from each other.</p>
