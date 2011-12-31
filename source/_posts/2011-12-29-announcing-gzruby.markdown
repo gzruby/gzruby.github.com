@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing gzruby"
-date: 2011-12-29 11:27
+date: 2011-10-11 11:27
 comments: true
 categories: 
 ---
