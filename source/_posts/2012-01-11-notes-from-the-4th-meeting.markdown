@@ -13,7 +13,7 @@ As is our custom, we started the meeting with general introductions, then went i
 
 * **Introducing <http://www.gzruby.org>**
 
-  The offial blog for gzruby. We plan to use the blog to record our meetings and as a landing page for Ruby and Rails in South China. As our organization grows, we hope people continue to find the official blog and that makes it easier for them to find the group and come to a meeting. This is the site for our community, so please make suggestions or contribute directly. The source is on [github](http://github.com/gzruby/gzruby.github.com). 
+  The official blog for gzruby. We plan to use the blog to record our meetings and as a landing page for Ruby and Rails in South China. As our organization grows, we hope people continue to find the official blog and that makes it easier for them to find the group and come to a meeting. This is the site for our community, so please make suggestions or contribute directly. The source is on [github](http://github.com/gzruby/gzruby.github.com). 
   
   Presented by [@adevadeh](http://github.com/adevadeh)
   
