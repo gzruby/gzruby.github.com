@@ -13,7 +13,7 @@ As is our custom, we started the meeting with general introductions, then went i
 
 * **Introducing <http://www.gzruby.org>**
 
-  The official blog for gzruby. We plan to use the blog to record our meetings and as a landing page for Ruby and Rails in South China. As our organization grows, we hope people continue to find the official blog and that makes it easier for them to find the group and come to a meeting. This is the site for our community, so please make suggestions or contribute directly. The source is on [github](http://github.com/gzruby/gzruby.github.com). 
+  The official blog for gzruby. We plan to use the blog to record our meetings and as a landing page for Ruby and Rails in South China. As our organization grows, we hope people continue to find the blog and that makes it easier for them to find the group and come to a meeting. This is the site for our community, so please make suggestions or contribute directly. The source is on [github](http://github.com/gzruby/gzruby.github.com). 
   
   Presented by [@adevadeh](http://github.com/adevadeh)
   
@@ -39,4 +39,4 @@ As is our custom, we started the meeting with general introductions, then went i
 
 Thanks very much to our presenters for sharing. We would like to encourage anyone to present at the next meeting. You can talk about anything you find interesting, or something you find useful in your work. By sharing with each other, we learn from each other, and we all become better developers.
 
-### See you at the next meeting, scheduled for Wed, March 18, 2012
+### See you at the next meeting, scheduled for Wed, March 21, 2012
