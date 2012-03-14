@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2012-02-05T23:06:04+08:00</updated>
+  <updated>2012-03-14T17:43:52+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第五次聚会/Meetup #5]]></title>
+    <link href="http://www.gzruby.org/blog/2012/03/14/time-for-gzruby-meetup-number-5/"/>
+    <updated>2012-03-14T17:12:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2012/03/14/time-for-gzruby-meetup-number-5</id>
+    <content type="html"><![CDATA[<p>Ruby开发者们，我们又来了！咱们小聚一下，分享过去这几个月我们在Ruby领域上面所关注的，学习的。瞧瞧，<a href="http://weblog.rubyonrails.org/2012/1/20/rails-3-2-0-faster-dev-mode-routing-explain-queries-tagged-logger-store/">Rails 3.2</a>发布了，还有<a href="http://www.ruby-lang.org/en/news/2012/02/16/ruby-1-9-3-p125-is-released/">ruby 1.9.3-p125</a> 和 <a href="http://spreecommerce.com/blog/2012/02/09/spree-1-0-0-released/">Spree 1.0</a>，在这里有许多很酷的东西值得我们去分享和讨论的。你还可以谈谈你在github上面有趣的项目，或者一些新颖的工具，或者一个帮助我们更快地coding的小技巧，我们都希望你能跟咱们分享！</p>
+
+<p>Hey rubyists, its that time again. Time for us to gather, to celebrate, and to share what we&#8217;ve learned over the last few months. Lets see, <a href="http://weblog.rubyonrails.org/2012/1/20/rails-3-2-0-faster-dev-mode-routing-explain-queries-tagged-logger-store/">Rails 3.2</a> is out now, <a href="http://www.ruby-lang.org/en/news/2012/02/16/ruby-1-9-3-p125-is-released/">ruby 1.9.3-p125</a>, <a href="http://spreecommerce.com/blog/2012/02/09/spree-1-0-0-released/">Spree 1.0</a>, and of course the excellent <a href="http://reddotrubyconf.com/">RedDotRubyConf</a> - lots of cool stuff for us to look at and discuss. So think about your favorite github projects, any new tools you&#8217;ve come to love, or any tricks you&#8217;ve got that help you code faster, and come share with us.</p>
+
+<h4>时间/When：March 21, 7:30 PM</h4>
+
+<h4>地点/Where：<a href="http://maps.google.com/maps/place?q=%E5%B9%BF%E5%B7%9E+%E6%98%8E%E6%9C%88%E4%B8%80%E8%B7%AF+%E6%B1%89%E8%8B%91&amp;hl=en&amp;ie=UTF8&amp;cid=2763294127675392599">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
+
+<h4>地铁/Metro：<a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Notes From 第四聚会/Meetup #4]]></title>
