@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time for Meetup #6/第六次聚会/"
+title: "Time for Meetup #6/第六次聚会"
 date: 2012-05-11 18:43
 comments: true
 categories: 
@@ -11,7 +11,7 @@ Ruby的乡亲父老们, 大家下午好哦! 距离上次的聚会快2个月的�
 Good afternoon my good ruby compatriots! The third Wednesday of the second moon approaches, indicating that our time to gather is near. In the time since we've last met, some exciting new developments have surcfaced in the ruby community: [the mass-assignment security scandal](https://github.com/rails/rails/issues/5228), [Ruby 1.9.3-p194](http://www.ruby-lang.org/en/news/2012/04/20/ruby-1-9-3-p194-is-released/), and a very interesting [ruby-on-iOS solution](http://www.rubymotion.com/). What else have you seen in your ruby travels? Come, relax, share some fine ale and tell us your war stories from the world of web development. 
 
 
-#### 时间/When: May 17, 7:30 PM
+#### 时间/When: May 16, 7:30 PM
 #### 地点/Where：[Kudelabs 明月一路59号, 汉苑 西塔601](http://maps.google.com/maps/place?q=%E5%B9%BF%E5%B7%9E+%E6%98%8E%E6%9C%88%E4%B8%80%E8%B7%AF+%E6%B1%89%E8%8B%91&hl=en&ie=UTF8&cid=2763294127675392599)
 #### 地铁/Metro：[五羊村A出口/Line 5 - Wu Yang Cun, Exit A](http://www.exploregz.com/metro/pedia/station/wuyangcun/)
 
