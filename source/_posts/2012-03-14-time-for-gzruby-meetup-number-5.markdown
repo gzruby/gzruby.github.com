@@ -3,6 +3,7 @@ layout: post
 title: "第五次聚会/Meetup #5"
 date: 2012-03-14 17:12
 comments: true
+published: true
 categories: 
 ---
 
