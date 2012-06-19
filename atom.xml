@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2012-06-19T15:33:37+08:00</updated>
+  <updated>2012-06-19T16:49:25+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6/"/>
     <updated>2012-05-29T15:30:00+08:00</updated>
     <id>http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6</id>
-    <content type="html"><![CDATA[<p><img src="images/meetup6.png" style="width: 800px" alt="We <3 Ruby!" title="Join us every other month!" /></p>
+    <content type="html"><![CDATA[<p><img src="http://www.gzruby.org/images/meetup6.png" style="width: 800px" alt="We &lt;3 Ruby!" title="Join us every other month!" /></p>
 
 <p>I think we can all agree that the meeting held May 16, 2012 was one of our best yet. We had a bunch of new visitors. Its thrilling to see young rubyists joining our ranks, and at this meeting we had 5 recent graduates who all learned ruby on their own. We also love to see visitors from other platforms, we welcome anyone who has a passion for technology and software development.</p>
 
