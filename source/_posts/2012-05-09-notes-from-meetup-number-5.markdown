@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Notes from meetup #5"
+title: "Notes from 第五聚会/meetup #5"
 date: 2012-05-09 15:20
 comments: true
 categories: 
 ---
+
+
+<img src="images/meetup5.jpg" style="width: 800px" alt="Happy group members" title="Join us every other month!" />
+
 
 OK, this is a bit late. The last gzruby meeting we held, on March 21, was a great success: we had visitors from Shenzhen and a [Rails hero from the US](http://twitter.com/#!/danielkehoe); we imbibed some [great beer made by one of our members](http://www.weibo.com/strandbeer); and to top it all off we had some really fun and exciting presentations.
 
@@ -12,11 +16,11 @@ OK, this is a bit late. The last gzruby meeting we held, on March 21, was a grea
   
   With Rails, we have a very stable and mature back-end framework that allows us to write code in a standard way. Bootstrap from Twitter provides a similar functionality for the front-end. Rather than rolling your own css again and again, bootstrap gives you a standard way to layout your HTML pages, a standard way to style buttons and other elements, and it is generally much better than anything you could come up with on your own. 
    
-  Presented by [Leon Du](https://github.com/leondu)
+  Presented by [Leon Du](https://github.com/leondu) ([slides](http://www.slideshare.net/leondu/twitter-bootstrap-12949509))
 
 * **Introducing Web-App-Themes <https://github.com/pilu/web-app-theme>**
 
- We've all done it 20 times. When starting a new app, we have to choose how to style it. We want it to look nice, but don't want to spend time designing colors or write out the same HTML. Web App Themes takes care of this for us. But rather than an engine or an almost ready made app, it simply helps you generate HTML and CSS for you to use as you see fit. For certain projects where you just need to get started with some reasonable good looking HTML and CSS, Web App Themes may be your best option.
+ When starting a new app, we have to choose how to style it. We want it to look nice, but don't want to spend time designing colors or write out tons of markup. Web App Themes takes care of this for us. But rather than an engine or an almost ready made app, it simply helps you generate HTML and CSS for you to use as you see fit. For certain projects where you just need to get started with some reasonable good looking HTML and CSS, Web App Themes may be your best option.
   
   Presented by [@shaokun](https://github.com/shaokun)
 
