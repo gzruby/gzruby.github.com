@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Notes from 第五聚会/meetup #5 - gzruby</title>
+  <title>Notes from Meetup 6 - gzruby</title>
   <meta name="author" content="gzruby">
 
   
-  <meta name="description" content="OK, this is a bit late. The last gzruby meeting we held, on March 21, was a great success: we had visitors from Shenzhen and a Rails hero from the &hellip;">
+  <meta name="description" content="I think we can all agree that the meeting held May 16, 2012 was one of our best yet. We had a bunch of new visitors. Its thrilling to see young &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5">
+  <link rel="canonical" href="http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -81,7 +81,7 @@
   
   <header>
     
-      <h1 class="entry-title">Notes from 第五聚会/meetup #5</h1>
+      <h1 class="entry-title">Notes from Meetup 6</h1>
     
     
       <p class="meta">
@@ -97,44 +97,40 @@
   
 
 
-<time datetime="2012-05-09T15:20:00+08:00" pubdate data-updated="true">May 9<span>th</span>, 2012</time>
+<time datetime="2012-05-29T15:30:00+08:00" pubdate data-updated="true">May 29<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p><img src="images/meetup5.jpg" style="width: 800px" alt="Happy group members" title="Join us every other month!" /></p>
+<div class="entry-content"><p><img src="images/meetup6.png" style="width: 800px" alt="We <3 Ruby!" title="Join us every other month!" /></p>
 
-<p>OK, this is a bit late. The last gzruby meeting we held, on March 21, was a great success: we had visitors from Shenzhen and a <a href="http://twitter.com/#!/danielkehoe">Rails hero from the US</a>; we imbibed some <a href="http://www.weibo.com/strandbeer">great beer made by one of our members</a>; and to top it all off we had some really fun and exciting presentations.</p>
+<p>I think we can all agree that the meeting held May 16, 2012 was one of our best yet. We had a bunch of new visitors. Its thrilling to see young rubyists joining our ranks, and at this meeting we had 5 recent graduates who all learned ruby on their own. We also love to see visitors from other platforms, we welcome anyone who has a passion for technology and software development.</p>
 
-<ul>
-<li><p><strong>Working with Bootstrap <a href="http://twitter.github.com/bootstrap/">http://twitter.github.com/bootstrap/</a></strong></p>
+<p>At this meeting we had the honor of hosting guests from China Telecom. They were looking to find the next great mobile app and learn about what current mobile app developers are thinking about. Visitors of all types are welcome - from different disciplines and different platforms. Developers don&#8217;t work in a vaccum, we need to work together with others to make sure our products get out into the world.</p>
 
-<p>With Rails, we have a very stable and mature back-end framework that allows us to write code in a standard way. Bootstrap from Twitter provides a similar functionality for the front-end. Rather than rolling your own css again and again, bootstrap gives you a standard way to layout your HTML pages, a standard way to style buttons and other elements, and it is generally much better than anything you could come up with on your own.</p>
-
-<p>Presented by <a href="https://github.com/leondu">Leon Du</a> (<a href="http://www.slideshare.net/leondu/twitter-bootstrap-12949509">slides</a>)</p></li>
-<li><p><strong>Introducing Web-App-Themes <a href="https://github.com/pilu/web-app-theme">https://github.com/pilu/web-app-theme</a></strong></p></li>
-</ul>
-
-
-<p> When starting a new app, we have to choose how to style it. We want it to look nice, but don&#8217;t want to spend time designing colors or write out tons of markup. Web App Themes takes care of this for us. But rather than an engine or an almost ready made app, it simply helps you generate HTML and CSS for you to use as you see fit. For certain projects where you just need to get started with some reasonable good looking HTML and CSS, Web App Themes may be your best option.</p>
-
-<p>  Presented by <a href="https://github.com/shaokun">@shaokun</a></p>
+<p>Thanks again to <a href="http://weibo.com/strandbeer">Strand Beer</a> for the wonderful refreshment!</p>
 
 <ul>
-<li><p><strong>The Wonders of Pry <a href="https://github.com/pry/pry">https://github.com/pry/pry</a></strong></p>
+<li><p><strong>Namespace-less Rails Engines <a href="http://github.com/shaokun/nl-engine/">http://github.com/shaokun/nl-engine/</a></strong></p>
 
-<p>Pry is an IRB replacement that will knock your socks off. William certianly knocked our socks off with his presentation! Imagine being able to treat your entire ruby process&#8217; object space like a simple filesystem, where you can travel down paths to inspect data, <code>cd ..</code> to go back, and search down another branch. You can even ask questions like &#8220;Which method on (this object) could give me (this result)?&#8221; If you are a ruby developer and haven&#8217;t seen pry, you need to give it a look.</p>
+<p>As we develop more and more applications, we find ways to make our life easier and start to re-use parts of an app in the next project. Hopefully, as time goes on, we can build reusable components that we can use in future apps to speed up development. In static, client side developemnt, this kind of code reuse is common and easily accomplished. In web development, when dealing with server side code, HTML, javascript and databases, it can get complicated. As of Rails 3.x Engines are very handy and a great way to share code between apps. But you don&#8217;t want exactly the same code in every project. Sometimes one client wants to be able to delete widgets, another client wants to edit widgets, and a third client wants to be able to copy her widgets. So the next question is, how do we share common code between apps, and use ruby&#8217;s object oriented nature to extend functionality.</p>
 
-<p>To invoke pry in your rails app, just add the line: <code>(require pry; binding.pry) #!!</code></p>
+<p>In his talk, Shaokun described a technique to make sharing code easier by building Rails Engines that can be overridden cleanly. The engine code is kept seperate and any custom functionality is implemented at the project level. Your engine can live in a git submodule, and all of your custom code - model, controller, and views - lives in your current project. This separation makes it easy to continue to maintain the core functionality while being able to satisfy each client&#8217;s needs.</p>
 
-<p>Presented by William</p></li>
-<li><p><strong>Rails App Templates <a href="http://railsapps.github.com/">http://railsapps.github.com/</a></strong></p>
+<p>Presented by <a href="https://github.com/shaokun">伍少坤</a></p></li>
+<li><p><strong>Angular.js <a href="http://angularjs.org/">http://angularjs.org/</a> (<a href="http://igorminar.github.com/ng-slides/angular-intro/index.html">slides</a>)</strong></p>
 
-<p>The Rails ecosystem is full of choices, you&#8217;ve got gems and engines, fixture generators and testing frameworks. This can get overwhelming as technologies change fast. That&#8217;s where this project comes in. It attempts to provide up-to-date documentation on the latest best-practices with Rails. Whether its building apps that use Devise for authentication, or how to integrate bootstrap into Rails, Rails Apps has you covered. Check out their extensive list of template apps and detailed tutorials.</p>
+<p>Rails is a great framework for the server side. It gives you a well-defined structure and lots of tools for managing data and code on the server. Yet modern web apps have matured to the point where much of the interesting parts of the app are on the client side. On this side Rails shows some weakness - you need to mix several languages, js, css, html, erb into templates that are compiled server-side and then sent to the browser fully-baked. In today&#8217;s world of highly interactive and dynamic web applications, the Rails way is simply no longer good enough.</p>
 
-<p>Presented by <a href="http://www.linkedin.com/in/danielkehoe">Daniel Kehoe</a></p></li>
+<p><a href="https://github.com/angular/angular.js">Angular.js</a> is one of many projects attempting to fill in this gap. It is a way to manage client side view logic compltely in the browser using pure HTML and JS. Similar to projects like <a href="http://emberjs.com/">ember.js</a> and <a href="http://backbonejs.org/">backbone.js</a>, it allows you to define html templates and fill them with live data, either taken from a server or computed in the browser with user input.</p>
+
+<p>Angular caught our attention because it integrates well with existing technologies, it doesn&#8217;t require you to move everything over at once. You can implement just part of a page in angular, if you wish, and change the rest slowly over time. It also has a very clean way of dealing with data from the server and integrating it into the page.</p>
+
+<p>Paired with a strong server-side framework like <a href="https://github.com/IgorMinar/angularjs_rails_demo">Rails, Angular</a> could be the the missing piece. The piece that takes us into a new world of truly interactive, user friendly, web apps.</p>
+
+<p>Presented by <a href="https://github.com/adevadeh">@adevadeh</a></p></li>
 </ul>
 
 
@@ -142,7 +138,7 @@
 
 <p>Thanks very much to our presenters for sharing. We really appreciate that you stood up to share what you&#8217;ve been working on or show us something that may help us in our daily work. We hold these meetings to learn from each other, so be sure to give yourself some time to show other developers what you have learned.</p>
 
-<h3>See you at the next meeting, scheduled for Wed, May 16, 2012</h3>
+<h3>See you at the next meeting, scheduled for Wed,  July 18, 2012</h3>
 </div>
 
 
@@ -165,7 +161,7 @@
   
 
 
-<time datetime="2012-05-09T15:20:00+08:00" pubdate data-updated="true">May 9<span>th</span>, 2012</time>
+<time datetime="2012-05-29T15:30:00+08:00" pubdate data-updated="true">May 29<span>th</span>, 2012</time>
       
 
 
@@ -180,10 +176,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2012/03/14/time-for-gzruby-meetup-number-5/" title="Previous Post: 第五次聚会/Meetup #5">&laquo; 第五次聚会/Meetup #5</a>
+        <a class="basic-alignment left" href="/blog/2012/05/11/time-for-meetup-number-6/" title="Previous Post: Time for Meetup #6/第六次聚会">&laquo; Time for Meetup #6/第六次聚会</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2012/05/11/time-for-meetup-number-6/" title="next Post: Time for Meetup #6/第六次聚会">Time for Meetup #6/第六次聚会 &raquo;</a>
       
     </p>
   </footer>
