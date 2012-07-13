@@ -6,10 +6,15 @@ comments: true
 categories: 
 ---
 
+Ruby粉丝们, 我们的派对时间又到了! 离上次派对已经2个月了, 你学到了什么新鲜有趣的东西吗? 你尝试了一些新的gems吗? 或者使用新的工具?
 
 OK ruby fans, its that time again! Another 2 months have gone by...what have you learned? Did you try any new gems? Did you start using any new tools?
 
+上次派对以后, Ruby可没闲得下来, 我们尝试了[火爆的代码设计帖的内容](https://gist.github.com/2838490), [1.8.7的终极版本](http://www.ruby-lang.org/en/news/2012/06/29/ruby-1-8-7-p370-released/)(你升级到[1.9.3](http://www.ruby-lang.org/en/news/2012/04/20/ruby-1-9-3-p194-is-released/)了吗?) 和[SQL为Rails v3.2.6注入的安全补丁](http://weblog.rubyonrails.org/2012/6/12/ann-rails-3-2-6-has-been-released/)
+
 Since we met last, what's been going on: we've got the [epic comment thread about code design](https://gist.github.com/2838490), we've got [the final bug-fix release for 1.8.7](http://www.ruby-lang.org/en/news/2012/06/29/ruby-1-8-7-p370-released/) (Have you updated to 1.9.3 yet?), and we've got some SQL injection updates for [Rails in v3.2.6](http://weblog.rubyonrails.org/2012/6/12/ann-rails-3-2-6-has-been-released/). 
+
+让我们再次欢聚一堂, 为Ruby喝彩吧!
 
 Lets get together and celebrate our ruby family!
 
