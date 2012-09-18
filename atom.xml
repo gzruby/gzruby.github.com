@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2012-07-31T18:07:07+08:00</updated>
+  <updated>2012-09-18T17:35:25+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sept 19, 2012 - GZRUBY Pizza Party]]></title>
+    <link href="http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8/"/>
+    <updated>2012-09-18T17:26:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8</id>
+    <content type="html"><![CDATA[<p>Hello ruby friends! It&#8217;s time for us to get together again. We just realized it has been a year since our first ruby meetup, and we think its time to <strong>celebrate</strong>!</p>
+
+<p>For meetup #8, we are having a <strong>pizza party</strong>! Come on, invite anyone who might be interested in ruby or web-development. We&#8217;ll have pizza and some beer. If you can bring a few drinks or other snaks, that will make the party better.</p>
+
+<p>Rather than spend all our time talking about code, lets have some fun time with our community; get to know each other, and have a good time!</p>
+
+<h4>时间/When: September 19, 7:00 PM</h4>
+
+<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Notes from meetup 7]]></title>
