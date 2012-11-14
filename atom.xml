@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2012-09-18T17:35:25+08:00</updated>
+  <updated>2012-11-14T18:46:58+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第9聚会 －  GZRUBY #9 - Wed Nov 21, 7:30PM ]]></title>
+    <link href="http://www.gzruby.org/blog/2012/11/14/nov-21/"/>
+    <updated>2012-11-14T18:06:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2012/11/14/nov-21</id>
+    <content type="html"><![CDATA[<p>Hello ruby warriors! Time flies when you are having fun, doesn&#8217;t it? After our especially excellent social event in September, its time now to get back to code and have a great tech talk.</p>
+
+<p>In the ruby world, quite a few things have come up recently, and more is around the corner. <a href="http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/">Ruby 1.9.3-p327 is out</a>, <a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46258">Ruby 2.0 is feature frozen</a>, and <a href="http://vimeo.com/51181496">Rails 4.0 is coming soon</a>! With all this going on in the ruby and Rails community, what have <strong>you</strong> been working on?</p>
+
+<h4>时间/When: 星期三－11月21号 19:00 /  November 21, 7:00 PM</h4>
+
+<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
+
+<h4><a href="http://gz.o.cn/13105">59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601</a></h4>
+
+<h4>3 地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sept 19, 2012 - GZRUBY Pizza Party]]></title>
@@ -30,9 +53,9 @@
 
 <h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
 
-<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
 
-<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
 ]]></content>
   </entry>
   
