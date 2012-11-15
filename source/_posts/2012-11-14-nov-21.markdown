@@ -1,0 +1,23 @@
+---
+layout: post
+title: "第9聚会 － GZRUBY9 - Wed Nov 21"
+date: 2012-11-14 18:06
+comments: true
+categories: 
+---
+
+Hello ruby warriors! Time flies when you are having fun, doesn't it? After our especially excellent social event in September, its time now to get back to code and have a great tech talk.
+
+In the ruby world, quite a few things have come up recently, and more is around the corner. [Ruby 1.9.3-p327 is out](http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/), [Ruby 2.0 is feature frozen](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46258), and [Rails 4.0 is coming soon](http://vimeo.com/51181496)! With all this going on in the ruby and Rails community, what have **you** been working on?
+
+This month's event is sponsored by [Beansmile](http://beansmile.com) and [Strand Beer](http://weibo.com/strandbeer).
+
+#### 时间/When: 星期三－11月21号 19:00 /  November 21, 7:30 PM
+#### 地点/Where: [Kudelabs 明月一路59号, 汉苑 西塔601](http://gz.o.cn/13105)
+####[59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601](http://gz.o.cn/13105)
+####地铁/Metro: [五羊村A出口/Line 5 - Wu Yang Cun, Exit A](http://www.exploregz.com/metro/pedia/station/wuyangcun/)
+
+
+希望到时能见到你的身影！如果你有什么好的想法，发到[邮件列表](https://groups.google.com/forum/?fromgroups#!forum/gzruby)告诉我们吧!
+
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the [mailing list](https://groups.google.com/forum/?fromgroups#!forum/gzruby).
