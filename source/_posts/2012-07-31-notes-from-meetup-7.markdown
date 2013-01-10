@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes from meetup 7"
+title: "GZRUBY7 Report"
 date: 2012-07-31 13:55
 comments: true
 categories: 
