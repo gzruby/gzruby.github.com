@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZRUBY#11 March 20 - 7:30PM"
+title: "GZRUBY#11 March 20 - 7:30PM - Ruby 2.0"
 date: 2013-03-15 16:03
 comments: true
 categories: 
