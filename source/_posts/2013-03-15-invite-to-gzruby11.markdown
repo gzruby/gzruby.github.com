@@ -4,7 +4,7 @@ title: "GZRUBY#11 March 20 - 7:30PM - Ruby 2.0"
 date: 2013-03-15 16:03
 comments: true
 categories: 
-published: false
+published: true
 ---
 
 Two moons have passed, its ruby time again! This month's gzruby meetup will be held next Wednesday, March 20th at the Kudelabs offices, starting at 7:30.
