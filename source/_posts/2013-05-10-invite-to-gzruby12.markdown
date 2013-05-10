@@ -21,7 +21,7 @@ At this meetup, lets talk **Deployment**! We've all been there - VPS accounts, C
 这次聚会上，我们的主题是**Deployment**！我们都有着使用 VPS accounts, Cloud Hosting, App Engines的经历。你们觉得它们怎么样？中国最好的Rails Host是哪一个？Cap还是Vlad？来这里交流你的ideas，ninja methods和sysadmin hacks吧。
 
 
-#### 时间/When: 星期三－5月15号 19:30 / July 15, 7:30 PM
+#### 时间/When: 星期三－5月15号 19:30 / May 15, 7:30 PM
 #### 地点/Where: [Kudelabs 明月一路59号, 汉苑 西塔601](http://gz.o.cn/13105)
 ####[59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601](http://gz.o.cn/13105)
 ####地铁/Metro: [五羊村A出口/Line 5 - Wu Yang Cun, Exit A](http://www.exploregz.com/metro/pedia/station/wuyangcun/)
