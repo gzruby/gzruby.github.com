@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2013-03-16T12:27:51+08:00</updated>
+  <updated>2013-05-10T19:50:16+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY#12 May 15 - 7:30PM - Deployment]]></title>
+    <link href="http://www.gzruby.org/blog/2013/05/10/invite-to-gzruby12/"/>
+    <updated>2013-05-10T11:36:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2013/05/10/invite-to-gzruby12</id>
+    <content type="html"><![CDATA[<p>Ruby comrades! It is time to again unite, to share our secrets, and to push forth into the cold, cruel world of web development. This month&#8217;s gzruby meetup will be held next <strong>Wednesday, May 15th</strong> at the Kudelabs offices, starting at 7:30.</p>
+
+<p>各位，两个月过去了，是时候再次聚会了！本月的gzruby meetup将会在<strong>2013年5月15号</strong>（下个星期三）7点半在酷德实验室准时举行。</p>
+
+<p>Since the last time we met, <a href="http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/">Rails 4.0 RC1 is out</a>! Has anyone started using it yet? How are we doing on <a href="https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza">Ruby 2.0</a>? And wow, we haven&#8217;t had a <a href="http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/">security update</a> in 2 months, that&#8217;s good news.</p>
+
+<p>自从上次我们聚会后，<a href="http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/">Rails 4.0 RC1 来啦</a>! 有没有人开始使用它呢？<a href="https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza">Ruby 2.0</a>用的怎么样啦？还有一个好消息是，我们已经两个月没有<a href="http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/">安全性更新</a>。</p>
+
+<p>At this meetup, lets talk <strong>Deployment</strong>! We&#8217;ve all been there - VPS accounts, Cloud Hosting, App Engines. What&#8217;s working for you guys? What&#8217;s the best rails host in China? Cap or Vlad? Bring us your ideas, your ninja methods, your sysadmin hacks - its time to share and learn from each other!</p>
+
+<p>这次聚会上，我们的主题是<strong>Deployment</strong>！我们都有着使用 VPS accounts, Cloud Hosting, App Engines的经历。你们觉得它们怎么样？中国最好的Rails Host是哪一个？Cap还是Vlad？来这里交流你的ideas，ninja methods和sysadmin hacks吧。</p>
+
+<h4>时间/When: 星期三－5月15号 19:30 / May 15, 7:30 PM</h4>
+
+<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
+
+<h4><a href="http://gz.o.cn/13105">59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRUBY#11 March 20 - 7:30PM - Ruby 2.0]]></title>
