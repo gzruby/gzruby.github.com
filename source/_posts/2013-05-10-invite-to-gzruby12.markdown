@@ -11,11 +11,17 @@ Ruby comrades! It is time to again unite, to share our secrets, and to push fort
 
 各位，两个月过去了，是时候再次聚会了！本月的gzruby meetup将会在**2013年5月15号**（下个星期三）7点半在酷德实验室准时举行。
 
-Since the last time we met, [Rails 4.0 RC1 is out](http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/)! Has anyone started using it yet? How are we doing on [Ruby 2.0](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)? And wow, we haven't had a [security update](http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/) in 2 months, that's good news.
+Since the last time we met, [Rails 4.0 RC1 is out](http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/)! Has anyone started using it yet? How are we doing on [Ruby 2.0](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)? And wow, we haven't had a [security update](http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/) in 2 months, that's good news.
+
+自从上次我们聚会后，[Rails 4.0 RC1 来啦](http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/)! 有没有人开始使用它呢？[Ruby 2.0](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)用的怎么样啦？还有一个好消息是，我们已经两个月没有[安全性更新](http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/)。
+
 
 At this meetup, lets talk **Deployment**! We've all been there - VPS accounts, Cloud Hosting, App Engines. What's working for you guys? What's the best rails host in China? Cap or Vlad? Bring us your ideas, your ninja methods, your sysadmin hacks - its time to share and learn from each other! 
 
-#### 时间/When: 星期三－3月20号 19:30 / March 20, 7:30 PM
+这次聚会上，我们的主题是**Deployment**！我们都有着使用 VPS accounts, Cloud Hosting, App Engines的经历。你们觉得它们怎么样？中国最好的Rails Host是哪一个？Cap还是Vlad？来这里交流你的ideas，ninja methods和sysadmin hacks吧。
+
+
+#### 时间/When: 星期三－5月15号 19:30 / July 15, 7:30 PM
 #### 地点/Where: [Kudelabs 明月一路59号, 汉苑 西塔601](http://gz.o.cn/13105)
 ####[59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601](http://gz.o.cn/13105)
 ####地铁/Metro: [五羊村A出口/Line 5 - Wu Yang Cun, Exit A](http://www.exploregz.com/metro/pedia/station/wuyangcun/)
