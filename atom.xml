@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2013-05-10T19:50:16+08:00</updated>
+  <updated>2013-07-10T14:23:41+02:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -14,9 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[GZRUBY#13 July 17 - 7:30PM - Rails 4 &amp; Beer]]></title>
+    <link href="http://www.gzruby.org/blog/2013/07/10/invite-to-gzruby13/"/>
+    <updated>2013-07-10T17:12:00+02:00</updated>
+    <id>http://www.gzruby.org/blog/2013/07/10/invite-to-gzruby13</id>
+    <content type="html"><![CDATA[<p>Here comes the GZRUBY night #13!! It will be held on <strong>next Wednesday, July 17th</strong> at The Strand Beer Cafe, starting at 7:30 PM.</p>
+
+<p>第13次GZRUBY活动将于<strong>下周三，7月17号</strong>，晚上7:30在The Strand Beer Cafe如期举行！</p>
+
+<p><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0 Final Version</a> released in last month, have anyone tried it in production? Or you are developing more in the Single Page App direction with <a href="http://emberjs.com/">Ember.js</a>, <a href="http://backbonejs.org/">Backbone.js</a> or <a href="http://angularjs.org/">Angujar.js</a>? Do bring your awesome slides/tips to GZRUBY.</p>
+
+<p><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0正式版</a>上个月就发布了，有谁已经在生产环境下使用啦？还是你更喜欢Single Page App的方向呢？例如<a href="http://emberjs.com/">Ember.js</a>，<a href="http://backbonejs.org/">Backbone.js</a>或者<a href="http://angularjs.org/">Angujar.js</a>这些很棒的MVC Javascript库。记得带上你的主题或者好点子过来参加活动！</p>
+
+<p>For this event, we are moving to The Strand Beer Cafe, open by Xurry @ Kude Labs, which is near the Wu Yang Cun Metro Station A Exit (Line 5). And we will have nice home-made beer &amp; pizza there!</p>
+
+<p>这次活动，我们将移师The Strand Beer Cafe，很靠近地铁五号线的五羊邨地铁站A出口。享用Xurry &amp; David公婆制作的美味Pizza和啤酒！</p>
+
+<h4>时间/When: 星期三－7月17号 19:30 / July 17, 7:30 PM</h4>
+
+<h4>地点/Where: <a href="http://goo.gl/maps/zrsSK">越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe</a></h4>
+
+<h4><a href="http://goo.gl/maps/zrsSK">Ming Yue Er Lu, Chunfeng Lu, The Strand Beer Cafe</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[GZRUBY#12 May 15 - 7:30PM - Deployment]]></title>
     <link href="http://www.gzruby.org/blog/2013/05/10/invite-to-gzruby12/"/>
-    <updated>2013-05-10T11:36:00+08:00</updated>
+    <updated>2013-05-10T11:36:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2013/05/10/invite-to-gzruby12</id>
     <content type="html"><![CDATA[<p>Ruby comrades! It is time to again unite, to share our secrets, and to push forth into the cold, cruel world of web development. This month&#8217;s gzruby meetup will be held next <strong>Wednesday, May 15th</strong> at the Kudelabs offices, starting at 7:30.</p>
 
@@ -47,7 +78,7 @@
   <entry>
     <title type="html"><![CDATA[GZRUBY#11 March 20 - 7:30PM - Ruby 2.0]]></title>
     <link href="http://www.gzruby.org/blog/2013/03/15/invite-to-gzruby11/"/>
-    <updated>2013-03-15T16:03:00+08:00</updated>
+    <updated>2013-03-15T16:03:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2013/03/15/invite-to-gzruby11</id>
     <content type="html"><![CDATA[<p>Two moons have passed, its ruby time again! This month&#8217;s gzruby meetup will be held next Wednesday, March 20th at the Kudelabs offices, starting at 7:30.</p>
 
@@ -79,7 +110,7 @@
   <entry>
     <title type="html"><![CDATA[GZRUBY第10聚会1月16日7:30 - Asset Pipeline]]></title>
     <link href="http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10/"/>
-    <updated>2013-01-09T16:15:00+08:00</updated>
+    <updated>2013-01-09T16:15:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10</id>
     <content type="html"><![CDATA[<p>各位，是时候再次聚会了！本月的gzruby meetup将会在2013年1月16号（下个星期三）7点半在酷德实验室准时举行。记得在你的日历上标记噢。</p>
 
@@ -111,7 +142,7 @@
   <entry>
     <title type="html"><![CDATA[第9聚会 － GZRUBY9 - Wed Nov 21]]></title>
     <link href="http://www.gzruby.org/blog/2012/11/14/nov-21/"/>
-    <updated>2012-11-14T18:06:00+08:00</updated>
+    <updated>2012-11-14T18:06:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/11/14/nov-21</id>
     <content type="html"><![CDATA[<p>Hello ruby warriors! Time flies when you are having fun, doesn&#8217;t it? After our especially excellent social event in September, its time now to get back to code and have a great tech talk.</p>
 
@@ -136,7 +167,7 @@
   <entry>
     <title type="html"><![CDATA[Sept 19, 2012 - GZRUBY Pizza Party]]></title>
     <link href="http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8/"/>
-    <updated>2012-09-18T17:26:00+08:00</updated>
+    <updated>2012-09-18T17:26:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8</id>
     <content type="html"><![CDATA[<p>Hello ruby friends! It&#8217;s time for us to get together again. We just realized it has been a year since our first ruby meetup, and we think its time to <strong>celebrate</strong>!</p>
 
@@ -159,7 +190,7 @@
   <entry>
     <title type="html"><![CDATA[GZRUBY7 Report]]></title>
     <link href="http://www.gzruby.org/blog/2012/07/31/notes-from-meetup-7/"/>
-    <updated>2012-07-31T13:55:00+08:00</updated>
+    <updated>2012-07-31T13:55:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/07/31/notes-from-meetup-7</id>
     <content type="html"><![CDATA[<p><img src="http://www.gzruby.org/images/meetup7.jpg" style="width: 800px" alt="It really is a ruby party" title="Join us every other month!" /></p>
 
@@ -214,7 +245,7 @@
   <entry>
     <title type="html"><![CDATA[July 18 - Come to gzruby Meetup #7]]></title>
     <link href="http://www.gzruby.org/blog/2012/07/12/july-18-gzruby-meetup-number-7/"/>
-    <updated>2012-07-12T17:40:00+08:00</updated>
+    <updated>2012-07-12T17:40:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/07/12/july-18-gzruby-meetup-number-7</id>
     <content type="html"><![CDATA[<p>Ruby粉丝们, 我们的派对时间又到了! 离上次派对已经2个月了, 你学到了什么新鲜有趣的东西吗? 你尝试了一些新的gems吗? 或者使用新的工具?</p>
 
@@ -243,7 +274,7 @@
   <entry>
     <title type="html"><![CDATA[Notes from Meetup 6]]></title>
     <link href="http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6/"/>
-    <updated>2012-05-29T15:30:00+08:00</updated>
+    <updated>2012-05-29T15:30:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6</id>
     <content type="html"><![CDATA[<p><img src="http://www.gzruby.org/images/meetup6.png" style="width: 800px" alt="We &lt;3 Ruby!" title="Join us every other month!" /></p>
 
@@ -286,7 +317,7 @@
   <entry>
     <title type="html"><![CDATA[Time for Meetup #6/第六次聚会]]></title>
     <link href="http://www.gzruby.org/blog/2012/05/11/time-for-meetup-number-6/"/>
-    <updated>2012-05-11T18:43:00+08:00</updated>
+    <updated>2012-05-11T18:43:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/05/11/time-for-meetup-number-6</id>
     <content type="html"><![CDATA[<p>Ruby的乡亲父老们, 大家下午好哦! 距离上次的聚会快2个月的时间了, 这意味着, 我们又要见面了. 自从上次的聚会之后, Ruby社区又发布了一些新玩意, 像<a href="https://github.com/rails/rails/issues/5228">the mass-assignment security scandal</a>, <a href="http://www.ruby-lang.org/en/news/2012/04/20/ruby-1-9-3-p194-is-released/">Ruby 1.9.3-p194</a>, 和灰常有趣的<a href="http://www.rubymotion.com/">ruby-on-iOS</a>方法. 你在Ruby社区还发现了什么新玩意儿么? 咱们一起聊聊吧, 顺便和我们分享一下你在互联网开发的斗争史吧!</p>
 
@@ -307,7 +338,7 @@
   <entry>
     <title type="html"><![CDATA[Notes from 第五聚会/meetup #5]]></title>
     <link href="http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5/"/>
-    <updated>2012-05-09T15:20:00+08:00</updated>
+    <updated>2012-05-09T15:20:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5</id>
     <content type="html"><![CDATA[<p><img src="images/meetup5.jpg" style="width: 800px" alt="Happy group members" title="Join us every other month!" /></p>
 
@@ -354,7 +385,7 @@
   <entry>
     <title type="html"><![CDATA[第五次聚会/Meetup #5]]></title>
     <link href="http://www.gzruby.org/blog/2012/03/14/time-for-gzruby-meetup-number-5/"/>
-    <updated>2012-03-14T17:12:00+08:00</updated>
+    <updated>2012-03-14T17:12:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/03/14/time-for-gzruby-meetup-number-5</id>
     <content type="html"><![CDATA[<p>Ruby开发者们，我们又来了！咱们小聚一下，分享过去这几个月我们在Ruby领域上面所关注的，学习的。瞧瞧，<a href="http://weblog.rubyonrails.org/2012/1/20/rails-3-2-0-faster-dev-mode-routing-explain-queries-tagged-logger-store/">Rails 3.2</a>发布了，还有<a href="http://www.ruby-lang.org/en/news/2012/02/16/ruby-1-9-3-p125-is-released/">ruby 1.9.3-p125</a> 和 <a href="http://spreecommerce.com/blog/2012/02/09/spree-1-0-0-released/">Spree 1.0</a>，在这里有许多很酷的东西值得我们去分享和讨论的。你还可以谈谈你在github上面有趣的项目，或者一些新颖的工具，或者一个帮助我们更快地coding的小技巧，我们都希望你能跟咱们分享！</p>
 
@@ -375,7 +406,7 @@
   <entry>
     <title type="html"><![CDATA[Notes From 第四聚会/Meetup #4]]></title>
     <link href="http://www.gzruby.org/blog/2012/01/11/notes-from-the-4th-meeting/"/>
-    <updated>2012-01-11T20:11:00+08:00</updated>
+    <updated>2012-01-11T20:11:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/01/11/notes-from-the-4th-meeting</id>
     <content type="html"><![CDATA[<p>Last Wednesday, Jan 11th we held our fourth meetup. Again, we had a wonderful time getting to know fellow rubyists. There were quite a few new faces, including <a href="http://haifengsoft.com">visitors from Denmark</a>, and new <a href="http://favoritemedium.com">members from Singapore</a>. We love to meet new people, so if you have friends or know anyone who may be interested, please bring them along next time.</p>
 
@@ -416,7 +447,7 @@
   <entry>
     <title type="html"><![CDATA[join us for gzruby meetup #4]]></title>
     <link href="http://www.gzruby.org/blog/2012/01/10/join-us-for-gzruby-meetup-number-4/"/>
-    <updated>2012-01-10T10:03:00+08:00</updated>
+    <updated>2012-01-10T10:03:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2012/01/10/join-us-for-gzruby-meetup-number-4</id>
     <content type="html"><![CDATA[<h2>第四次聚会  Jan 11, 7:30 PM</h2>
 
@@ -439,7 +470,7 @@
   <entry>
     <title type="html"><![CDATA[第三次聚会/gzruby meetup #3]]></title>
     <link href="http://www.gzruby.org/blog/2011/11/18/notes-from-the-3rd-gzruby-meetup/"/>
-    <updated>2011-11-18T11:27:00+08:00</updated>
+    <updated>2011-11-18T11:27:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2011/11/18/notes-from-the-3rd-gzruby-meetup</id>
     <content type="html"><![CDATA[<p><img src="images/seb_gzruby.jpeg" style="width: 800px" alt="Image of Seb with a slide" title="Seb explains his scaling methods" /></p>
 
@@ -467,7 +498,7 @@ Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</st
   <entry>
     <title type="html"><![CDATA[Announcing gzruby]]></title>
     <link href="http://www.gzruby.org/blog/2011/10/11/announcing-gzruby/"/>
-    <updated>2011-10-11T11:27:00+08:00</updated>
+    <updated>2011-10-11T11:27:00+02:00</updated>
     <id>http://www.gzruby.org/blog/2011/10/11/announcing-gzruby</id>
     <content type="html"><![CDATA[<p>After witnessing the success of the <a href="http://techparty.org">GZ Tech Party</a> events and filled with enthusiasm from the great <a href="http://reddotrubyconf.com">Red Dot Ruby Conf</a>, some of the ruby developers in Guangzhou decided it was time to start a ruby group for ourselves. A support group, if you will, for developers who have decided to branch out and work with what could still be considered an &#8220;alternative&#8221; language. The few, the proud, the willing!</p>
 
