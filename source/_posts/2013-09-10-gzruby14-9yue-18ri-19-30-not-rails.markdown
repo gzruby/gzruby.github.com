@@ -13,11 +13,13 @@ It's time for GZRUBY14! It will be held **Wednesday, Sept 18th** at The Strand B
 
 This time we want to mix things up - Let's **not** talk about Rails! There are [other ruby frameworks](http://www.techrepublic.com/blog/australian-technology/the-small-medium-and-large-of-ruby-frameworks/) like [Sinatra](http://www.sinatrarb.com/) or [Padrino](http://www.padrinorb.com/). Or other languages to learn about like [Node.js](http://cnodejs.org/) and [Python/Django](http://python.cn/). Invite your JS friends or Pyton friends to join us! Lets branch out and learn something new.
 
-Our venue will again be The Strand Beer Cafe. Its near the Wu Yang Cun Metro Station A Exit (Line 5). The venue features our famous Guangzhou hand-made beer and fresh pizza.
+这次我们打算换个口味 —— 我们这次**不**讨论 Rails！还有很多[其他的 Ruby 框架](http://www.techrepublic.com/blog/australian-technology/the-small-medium-and-large-of-ruby-frameworks/)（[Sinatra](http://www.sinatrarb.com/) 和 [Padrino](http://www.padrinorb.com/)）和其他语言（如 [Node.js](http://cnodejs.org/) 和 [Python/Django](http://python.cn/)）值得我们去学习。欢迎邀请你的 JS 或 Python 的朋友加入我们的聚会！让我们一起扩充自己，学习一些新的技术。
 
-这次活动，我们将移师The Strand Beer Cafe，很靠近地铁五号线的五羊邨地铁站A出口。享用Xurry & David公婆制作的美味Pizza和啤酒！
+Our venue will again be **[The Strand Beer Cafe](http://www.dianping.com/shop/10011468)**. Its near the Wu Yang Cun Metro Station A Exit (Line 5). The venue features our famous Guangzhou hand-made beer and fresh pizza.
 
-#### 时间/When: 星期三－7月17号 19:30 / July 17, 7:30 PM
+我们这次聚会将继续在 **[The Strand Beer Cafe](http://www.dianping.com/shop/10011468)** 举行，靠近地铁五号线的五羊邨地铁站A出口。这意味着我们到时可以享用到著名的广州自制啤酒和美味的Pizza。
+
+#### 时间/When: 星期三－9月18号 19:30 / Sep 18, 7:30 PM
 #### 地点/Where: [越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe](http://goo.gl/maps/zrsSK)
 ####[Ming Yue Er Lu, Chunfeng Lu, The Strand Beer Cafe](http://goo.gl/maps/zrsSK)
 ####地铁/Metro: [五羊村A出口/Line 5 - Wu Yang Cun, Exit A](http://www.exploregz.com/metro/pedia/station/wuyangcun/)
