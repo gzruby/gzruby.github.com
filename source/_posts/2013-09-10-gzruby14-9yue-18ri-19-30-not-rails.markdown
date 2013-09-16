@@ -13,7 +13,7 @@ It's time for GZRUBY14! It will be held **Wednesday, Sept 18th** at The Strand B
 
 This time we want to mix things up - Let's **not** talk about Rails! There are [other ruby frameworks](http://www.techrepublic.com/blog/australian-technology/the-small-medium-and-large-of-ruby-frameworks/) like [Sinatra](http://www.sinatrarb.com/) or [Padrino](http://www.padrinorb.com/). Or other languages to learn about like [Node.js](http://cnodejs.org/) and [Python/Django](http://python.cn/). Invite your JS friends or Pyton friends to join us! Lets branch out and learn something new.
 
-Our venue will again be The Strand Beer Cafe. Its near the Wu Yang Cun Metro Station A Exit (Line 5). The venue features our famous Guangzhou hand-made beer and fresh pizza.
+Our venue is **[The Strand Beer Cafe](http://www.dianping.com/shop/10011468)**. Its near the Wu Yang Cun Metro Station A Exit (Line 5). The venue features our famous Guangzhou hand-made beer and fresh pizza.
 
 这次活动，我们将移师The Strand Beer Cafe，很靠近地铁五号线的五羊邨地铁站A出口。享用Xurry & David公婆制作的美味Pizza和啤酒！
 
