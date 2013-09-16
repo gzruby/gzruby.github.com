@@ -2,78 +2,82 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.gzruby.org/blog/2011/10/11/announcing-gzruby/</loc>
-        <lastmod>2011-12-30T16:36:34+02:00</lastmod>
+        <lastmod>2011-12-30T22:36:34+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2011/11/18/notes-from-the-3rd-gzruby-meetup/</loc>
-        <lastmod>2011-12-30T16:36:32+02:00</lastmod>
+        <lastmod>2011-12-30T22:36:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/01/10/join-us-for-gzruby-meetup-number-4/</loc>
-        <lastmod>2012-01-11T14:00:49+02:00</lastmod>
+        <lastmod>2012-01-11T20:00:49+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/01/11/notes-from-the-4th-meeting/</loc>
-        <lastmod>2012-02-05T17:03:11+02:00</lastmod>
+        <lastmod>2012-02-05T23:03:11+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/03/14/time-for-gzruby-meetup-number-5/</loc>
-        <lastmod>2012-03-14T11:50:41+02:00</lastmod>
+        <lastmod>2012-03-14T17:50:41+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5/</loc>
-        <lastmod>2012-05-29T09:29:30+02:00</lastmod>
+        <lastmod>2012-05-29T15:29:30+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/05/11/time-for-meetup-number-6/</loc>
-        <lastmod>2012-05-18T08:26:52+02:00</lastmod>
+        <lastmod>2012-05-18T14:26:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6/</loc>
-        <lastmod>2012-06-19T10:49:24+02:00</lastmod>
+        <lastmod>2012-06-19T16:49:24+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/07/12/july-18-gzruby-meetup-number-7/</loc>
-        <lastmod>2012-07-13T05:29:45+02:00</lastmod>
+        <lastmod>2012-07-13T11:29:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/07/31/notes-from-meetup-7/</loc>
-        <lastmod>2013-01-10T05:47:17+02:00</lastmod>
+        <lastmod>2013-01-10T11:47:17+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8/</loc>
-        <lastmod>2012-09-19T03:53:17+02:00</lastmod>
+        <lastmod>2012-09-19T09:53:17+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2012/11/14/nov-21/</loc>
-        <lastmod>2012-11-15T05:45:46+02:00</lastmod>
+        <lastmod>2012-11-15T11:45:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10/</loc>
-        <lastmod>2013-01-10T05:46:03+02:00</lastmod>
+        <lastmod>2013-01-10T11:46:03+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2013/03/15/invite-to-gzruby11/</loc>
-        <lastmod>2013-03-16T05:52:38+02:00</lastmod>
+        <lastmod>2013-03-16T11:52:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2013/05/10/invite-to-gzruby12/</loc>
-        <lastmod>2013-05-10T12:32:42+02:00</lastmod>
+        <lastmod>2013-05-10T18:32:42+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/2013/07/10/invite-to-gzruby13/</loc>
-        <lastmod>2013-07-10T12:13:01+02:00</lastmod>
+        <lastmod>2013-07-10T18:13:01+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.gzruby.org/blog/2013/09/10/gzruby14-9yue-18ri-19-30-not-rails/</loc>
+        <lastmod>2013-09-16T15:33:56+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/blog/archives/</loc>
-        <lastmod>2013-07-10T12:13:01+02:00</lastmod>
+        <lastmod>2013-09-16T15:33:56+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/group-members/</loc>
-        <lastmod>2012-01-16T11:56:52+02:00</lastmod>
+        <lastmod>2012-01-16T17:56:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/</loc>
-        <lastmod>2013-07-10T12:13:01+02:00</lastmod>
+        <lastmod>2013-09-16T15:33:56+08:00</lastmod>
     </url>
 </urlset>
