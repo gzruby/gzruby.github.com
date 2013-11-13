@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2013-05-10T19:50:16+08:00</updated>
+  <updated>2013-09-16T15:37:08+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY14 - 9月18日19:30 - Not Rails!]]></title>
+    <link href="http://www.gzruby.org/blog/2013/09/10/gzruby14-9yue-18ri-19-30-not-rails/"/>
+    <updated>2013-09-10T15:50:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2013/09/10/gzruby14-9yue-18ri-19-30-not-rails</id>
+    <content type="html"><![CDATA[<p>第14次GZRUBY活动将于<strong>周三，9月18号</strong>，晚上7:30在The Strand Beer Cafe如期举行！
+It&#8217;s time for GZRUBY14! It will be held <strong>Wednesday, Sept 18th</strong> at The Strand Beer Cafe, starting at 7:30 PM.</p>
+
+<p>这次我们打算换个口味 —— 我们这次<strong>不</strong>讨论 Rails！还有很多<a href="http://www.techrepublic.com/blog/australian-technology/the-small-medium-and-large-of-ruby-frameworks/">其他的 Ruby 框架</a>（<a href="http://www.sinatrarb.com/">Sinatra</a> 和 <a href="http://www.padrinorb.com/">Padrino</a>）和其他语言（如 <a href="http://cnodejs.org/">Node.js</a> 和 <a href="http://python.cn/">Python/Django</a>）值得我们去学习。欢迎邀请你的 JS 或 Python 的朋友加入我们的聚会！让我们一起扩充自己，学习一些新的技术。
+This time we want to mix things up - Let&#8217;s <strong>not</strong> talk about Rails! There are <a href="http://www.techrepublic.com/blog/australian-technology/the-small-medium-and-large-of-ruby-frameworks/">other ruby frameworks</a> like <a href="http://www.sinatrarb.com/">Sinatra</a> or <a href="http://www.padrinorb.com/">Padrino</a>. Or other languages to learn about like <a href="http://cnodejs.org/">Node.js</a> and <a href="http://python.cn/">Python/Django</a>. Invite your JS friends or Pyton friends to join us! Let&#8217;s branch out and learn something new.</p>
+
+<p>我们这次聚会将继续在 <strong><a href="http://www.dianping.com/shop/10011468">The Strand Beer Cafe</a></strong> 举行，靠近地铁五号线的五羊邨地铁站A出口。这意味着我们到时可以享用到著名的广州自制啤酒和美味的Pizza。
+Our venue is <strong><a href="http://www.dianping.com/shop/10011468">The Strand Beer Cafe</a></strong>. Its near the Wu Yang Cun Metro Station A Exit
+(Line 5). The venue features our famous Guangzhou hand-made beer and fresh pizza.</p>
+
+<h4>时间/When: 星期三－9月18号 19:30 / Sept 18, 7:30 PM</h4>
+
+<h4>地点/Where: <a href="http://goo.gl/maps/zrsSK">越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe</a></h4>
+
+<h4><a href="http://goo.gl/maps/zrsSK">Ming Yue Er Lu, Chunfeng Lu, The Strand Beer Cafe</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY#13 July 17 - 7:30PM - Rails 4 &amp; Beer]]></title>
+    <link href="http://www.gzruby.org/blog/2013/07/10/invite-to-gzruby13/"/>
+    <updated>2013-07-10T17:12:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2013/07/10/invite-to-gzruby13</id>
+    <content type="html"><![CDATA[<p>Here comes the GZRUBY night #13!! It will be held on <strong>next Wednesday, July 17th</strong> at The Strand Beer Cafe, starting at 7:30 PM.</p>
+
+<p>第13次GZRUBY活动将于<strong>下周三，7月17号</strong>，晚上7:30在The Strand Beer Cafe如期举行！</p>
+
+<p><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0 Final Version</a> released in last month, have anyone tried it in production? Or you are developing more in the Single Page App direction with <a href="http://emberjs.com/">Ember.js</a>, <a href="http://backbonejs.org/">Backbone.js</a> or <a href="http://angularjs.org/">Angujar.js</a>? Do bring your awesome slides/tips to GZRUBY.</p>
+
+<p><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0正式版</a>上个月就发布了，有谁已经在生产环境下使用啦？还是你更喜欢Single Page App的方向呢？例如<a href="http://emberjs.com/">Ember.js</a>，<a href="http://backbonejs.org/">Backbone.js</a>或者<a href="http://angularjs.org/">Angujar.js</a>这些很棒的MVC Javascript库。记得带上你的主题或者好点子过来参加活动！</p>
+
+<p>For this event, we are moving to The Strand Beer Cafe, open by Xurry @ Kude Labs, which is near the Wu Yang Cun Metro Station A Exit (Line 5). And we will have nice home-made beer &amp; pizza there!</p>
+
+<p>这次活动，我们将移师The Strand Beer Cafe，很靠近地铁五号线的五羊邨地铁站A出口。享用Xurry &amp; David公婆制作的美味Pizza和啤酒！</p>
+
+<h4>时间/When: 星期三－7月17号 19:30 / July 17, 7:30 PM</h4>
+
+<h4>地点/Where: <a href="http://goo.gl/maps/zrsSK">越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe</a></h4>
+
+<h4><a href="http://goo.gl/maps/zrsSK">Ming Yue Er Lu, Chunfeng Lu, The Strand Beer Cafe</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRUBY#12 May 15 - 7:30PM - Deployment]]></title>
