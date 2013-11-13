@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZRUBY14 - 11月20日19:30 - Mini Conf!"
+title: "GZRUBY15 - 11月20日19:30 - Mini Conf!"
 date: 2013-11-13 13:30
 comments: true
 categories: 
