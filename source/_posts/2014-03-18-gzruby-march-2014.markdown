@@ -1,0 +1,22 @@
+---
+layout: post
+title: "GZRUBY17 - 3月26日19:30"
+date: 2014-03-18 13:56
+comments: true
+categories: 
+---
+
+Hello Rubyist
+
+2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于**周三，3月26号**晚上7:30在**地点**举行。
+
+这次是2014年第二次GZRUBY活动。上一次GZRUBY，我们与北京，上海，成都和深圳的小伙伴们一起联合举办了Rails Girls活动。
+在此要感谢教练们跟志愿者们付出的努力。非常谢谢他们，同时也期待下一次的Rails Girls。
+
+我们这次聚会不设主题，大家有什么想分享的就尽管拿出来吧。
+
+#### 时间/When: 星期三－3月26号 19:30 / Mar 26, 7:30 PM
+#### 地点/Where: 
+
+希望到时能见到你的身影！如果你有什么好的想法，发到[邮件列表](https://groups.google.com/forum/?fromgroups#!forum/gzruby)告诉我们吧!
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the [mailing list](https://groups.google.com/forum/?fromgroups#!forum/gzruby).
