@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2013-11-13T15:58:06+08:00</updated>
+  <updated>2014-03-19T09:04:45+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY17 - 3月26日 - 19:30]]></title>
+    <link href="http://www.gzruby.org/blog/2014/03/18/gzruby-march-2014/"/>
+    <updated>2014-03-18T13:56:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/03/18/gzruby-march-2014</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于<strong>周三，3月26号</strong>晚上19:00在<strong>地点</strong>举行。</p>
+
+<p>除了广州本地的Rubyist之外，本次我们还欢迎来自云梯的<a href="http://ruby-china.org/kgen">kgen (Kgen Bao)</a>，以及来自上海的<a href="http://ruby-china.org/jasli2">jasli2</a>，相信他们的加入会让本次聚会的内容更加精彩。</p>
+
+<p>这次是2014年第二次GZRUBY活动。上一次GZRUBY，我们与<a href="http://railsgirls.com/beijing">北京</a>，<a href="http://railsgirls.com/shanghai">上海</a>，<a href="http://railsgirls.com/chengdu">成都</a>和<a href="http://railsgirls.com/shenzhen">深圳</a>的小伙伴们一起联合举办了<a href="http://railsgirls.com/guangzhou">Rails Girls活动</a>。
+在此要感谢教练们跟志愿者们付出的努力。非常谢谢他们，同时也期待下一次的<a href="http://railsgirls.com">Rails Girls</a>。</p>
+
+<h4>时间/When: 星期三－3月26号 19:00 / Mar 26, 7:00 PM</h4>
+
+<h4>地点/Where: <a href="http://gz.o.cn/117336">天河商贸大厦14楼</a> FocusCom的会议室</h4>
+
+<h4>地铁/Metro: <a href="http://gzdt.8684.cn/z_cf9c263c">三号线岗顶站D出口</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRUBY15 - 11月20日19:30 - Mini Conf!]]></title>
