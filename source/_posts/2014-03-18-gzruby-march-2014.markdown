@@ -6,17 +6,19 @@ comments: true
 categories: 
 ---
 
-Hello Rubyist
+Hello Rubyist!
 
-2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于**周三，3月26号**晚上7:30在**地点**举行。
+2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于**周三，3月26号**晚上19:00在**地点**举行。
 
-这次是2014年第二次GZRUBY活动。上一次GZRUBY，我们与北京，上海，成都和深圳的小伙伴们一起联合举办了Rails Girls活动。
-在此要感谢教练们跟志愿者们付出的努力。非常谢谢他们，同时也期待下一次的Rails Girls。
+除了广州本地的Rubyist之外，本次我们还欢迎来自云梯的[kgen (Kgen Bao)](http://ruby-china.org/kgen)，以及来自上海的[jasli2](http://ruby-china.org/jasli2)，相信他们的加入会让本次聚会的内容更加精彩。
 
-我们这次聚会不设主题，大家有什么想分享的就尽管拿出来吧。
+这次是2014年第二次GZRUBY活动。上一次GZRUBY，我们与[北京](http://railsgirls.com/beijing)，[上海](http://railsgirls.com/shanghai)，[成都](http://railsgirls.com/chengdu)和[深圳](http://railsgirls.com/shenzhen)的小伙伴们一起联合举办了[Rails Girls活动](http://railsgirls.com/guangzhou)。
+在此要感谢教练们跟志愿者们付出的努力。非常谢谢他们，同时也期待下一次的[Rails Girls](http://railsgirls.com/)。
 
-#### 时间/When: 星期三－3月26号 19:30 / Mar 26, 7:30 PM
-#### 地点/Where: 
+
+#### 时间/When: 星期三－3月26号 19:00 / Mar 26, 7:00 PM
+#### 地点/Where: [天河商贸大厦14楼](http://gz.o.cn/117336) FocusCom的会议室 
+#### 地铁/Metro: [三号线岗顶站](https://pt.foursquare.com/v/地铁岗顶站--gangding-metro-station/4bed51c16e8c20a15e287061)
 
 希望到时能见到你的身影！如果你有什么好的想法，发到[邮件列表](https://groups.google.com/forum/?fromgroups#!forum/gzruby)告诉我们吧!
 We look forward to seeing you there! If you have any topic ideas or plans, let us know on the [mailing list](https://groups.google.com/forum/?fromgroups#!forum/gzruby).
