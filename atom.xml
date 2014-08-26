@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-03-19T09:08:40+08:00</updated>
+  <updated>2014-08-26T16:08:44+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY 第19 次聚会 - 19:00]]></title>
+    <link href="http://www.gzruby.org/blog/2014/08/26/invite-to-gzruby19-dot-markdown/"/>
+    <updated>2014-08-26T12:27:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/08/26/invite-to-gzruby19-dot-markdown</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>还记得上一次我们在 <a href="http://goo.gl/maps/zrsSK">Strand Beer Cafe</a>的聚会吗？转眼已经过去了两个多月，熬过了酷暑，让我们开始动起来吧！</p>
+
+<p>过去的两个多月里，你是否又在Ruby的世界挖掘到了新的好宝贝？或者，你又被哪个Ruby魔法所征服？
+过去的两个多月里，你是否已经开始尝试与Rails 4.1并肩作战？或者，你有话要吐槽？
+过去的两个多月里，你是否掌握了Ruby开发的绝佳姿势?
+过去的两个多月里，大家已经经历了很多，RubyMotion的升级，TDD的争辩不休，Lotus开发框架……
+来吧，带上你们的主题与故事，与我们分享每一个点滴！</p>
+
+<p>现在郑重宣布，GZRUBY第19次聚会定于下周三也就是<strong>本月的27号</strong>晚上举办，具体时间地点如下：</p>
+
+<p>聚会安排:</p>
+
+<ul>
+<li>19:00-19:30 自我介绍以及开场</li>
+<li>19:30-20:30 主题演讲</li>
+<li>20:30-21:30 自由交流</li>
+</ul>
+
+
+<h4>演讲主题/Speech Topic: 主题不限</h4>
+
+<h4>时间/When: 星期三 - 8月27号 19:00 / Aug 27, 7:00 PM</h4>
+
+<h4>地点/Where: <a href="http://j.map.baidu.com/WSLCv">广州市海珠区新港中路397号TIT创意园5C大道11号铂涛酒店集团（近客村地铁站A出口）</a>，在线地图请猛戳 http://j.map.baidu.com/WSLCv</h4>
+
+<h4>地铁/Metro: 3号线客村站A出口/Line3 - Kecun, Exit A</h4>
+
+<h4>费用/Fee: 免费</h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY18 - 5月30日 - 19:00]]></title>
+    <link href="http://www.gzruby.org/blog/2014/05/20/invite-to-gzruby17/"/>
+    <updated>2014-05-20T18:00:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/05/20/invite-to-gzruby17</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>距离<a href="http://www.gzruby.org/blog/2014/03/18/gzruby-march-2014/">上一次GZRUBY聚会</a>已经两个月了，现在我们已经迎来了燥热的夏天。</p>
+
+<p>第18次GZRUBY活动将于 本周五晚上7:00准时举行！</p>
+
+<p>我们这次聚会将会回到 Strand Beer Cafe ，靠近地铁五号线的 五羊邨地铁站A出口。这意味着我们到时可以享用到著名的广州自制啤酒和美味的Pizza。</p>
+
+<p>经历了4月份<a href="http://heartbleed.com">Heartbleed</a>漏洞的一夜惊魂，对于Web应用的安全，大家是否有好的工具以及方法可以分享？Rails 4.1已经正式发布，对于其诸多新特性，你是否已经准备好了分享自己的经验？是Spring？是Variants？是Mailer previews？还是你有除此之外，自己更加关注的主题？欢迎大家带上自己的主题，让我们聚在一起分享吧！</p>
+
+<p>聚会安排:</p>
+
+<ul>
+<li>19:00-20:30 主题演讲</li>
+<li>20:30-22:00 自由交流</li>
+</ul>
+
+
+<h4>时间/When: 星期五－5月30号 19:00 / May 30, 7:00 PM</h4>
+
+<h4>地点/Where: <a href="http://goo.gl/maps/zrsSK">越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe</a></h4>
+
+<h4><a href="http://goo.gl/maps/zrsSK">Ming Yue Er Lu, Chunfeng Lu, The Strand Beer Cafe</a></h4>
+
+<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+
+<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!
+We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRUBY17 - 3月26日 - 19:00]]></title>
@@ -573,19 +650,6 @@ Thanks to everyone who attended the <strong>gzruby</strong> meetup last wednesda
 Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</strong>! See you all next year.</p>
 
 <p>Photo by/ 照片提供：<a href="http://www.weibo.com/littlepxy">littlepxy</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Announcing gzruby]]></title>
-    <link href="http://www.gzruby.org/blog/2011/10/11/announcing-gzruby/"/>
-    <updated>2011-10-11T11:27:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2011/10/11/announcing-gzruby</id>
-    <content type="html"><![CDATA[<p>After witnessing the success of the <a href="http://techparty.org">GZ Tech Party</a> events and filled with enthusiasm from the great <a href="http://reddotrubyconf.com">Red Dot Ruby Conf</a>, some of the ruby developers in Guangzhou decided it was time to start a ruby group for ourselves. A support group, if you will, for developers who have decided to branch out and work with what could still be considered an &#8220;alternative&#8221; language. The few, the proud, the willing!</p>
-
-<p>Since our first meeting with over 20 attendees, <strong>gzruby</strong> has become a welcome event on the Guangzhou tech calendar. We host a variety of people, from die-hard ruby and rails hackers to students interested in new languages. We even have visitors from the Python and Android user groups at times. Mostly, its a chance for smart developers to get together, share war stories, and learn from each other.</p>
-
-<p>There is a great well of talent here in Guangzhou, and the aim of <strong>gzruby</strong> is to provide a place for that talent to grow, to find colleagues, and to make GZ a better place to live and work for all of us.</p>
 ]]></content>
   </entry>
   
