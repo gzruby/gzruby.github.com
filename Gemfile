@@ -11,6 +11,7 @@ group :development do
   gem 'RedCloth'
   gem 'haml', '>= 3.1'
   gem 'compass', '>= 0.11'
+  gem 'sass'
   gem 'rubypants'
   gem 'rb-fsevent'
   gem 'stringex'
