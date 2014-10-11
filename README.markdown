@@ -1,3 +1,27 @@
+## Setup Guide
+```sh
+$ cd your/working/area
+$ git clone git@github.com:gzruby/gzruby.github.com.git
+$ cd gzruby.github.com
+$ git checkout source
+$ bundle install
+# The below step is necessary to prepare for your first deployment after the above git clone
+$ git clone git@github.com:gzruby/gzruby.github.com.git _deploy
+```
+
+## Start to write new post
+```sh
+rake new_post['your post title here']
+```
+Then edit the post in the file `source/posts/%year-%month-%day-your_post_title_here.markdown`.
+
+To preview your post, just type command `rake preview` and then go to the `http://localhost:4000` using your favourite browser.
+
+## Deployment
+Firstly ensure a directory `_deploy` is existed, if not, run command `git clone git@github.com:gzruby/gzruby.github.com.git _deploy` before you start to deploy the site.
+
+Our command to deploy is `rake deploy`, if there is a error message **"No such file or directory - public/."** when you run the command, please run `rake generate` firstly, and then retry.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
