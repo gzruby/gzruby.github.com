@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-08-26T16:08:44+08:00</updated>
+  <updated>2014-10-11T21:01:35+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRUBY第20次聚会 - 2014.10.25 15:30]]></title>
+    <link href="http://www.gzruby.org/blog/2014/10/11/gzrubydi-20ci-ju-hui-2014-dot-10-dot-25-15-30/"/>
+    <updated>2014-10-11T20:07:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/10/11/gzrubydi-20ci-ju-hui-2014-dot-10-dot-25-15-30</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>国庆长假已过，两个月就又这么溜走了，新的一次Ruby Party的筹备工作也提上日程了。对于这一次的活动，我们有一些新的尝试：</p>
+
+<h4>活动时间</h4>
+
+<p>在<a href="https://ruby-china.org/topics/21098">上一次</a>的活动中，不少朋友因为工作日晚上不方便参加活动，建议将活动改到周末白天，所以这次我们暂定把活动定在这个月的最后一个周六下午，也就是 <strong>本月的25日下午，暂定下午15：30</strong> 开始，希望能够方便更多想要加入Party的朋友。</p>
+
+<h4>活动场地</h4>
+
+<p>至于活动的场地，我们现在正在协调中，希望能够为大家争取到比较轻松开放的场地，到时会在本帖更新场地信息。如果您有不错的场地愿意提供给我们，请在本帖下方回复您的联系方式。</p>
+
+<h4>活动主题</h4>
+
+<p>以往的活动都是靠各位到场朋友现场提供主题甚至即兴演讲，这次我们希望事先收集确认好活动的主题（主题会通过报名表收集），以便我们能够更早地跟到场朋友做好沟通并且公布主题。当然，我们依旧不会拒绝现场报名的主题或者即兴演讲。我也会定时在本帖更新收集到的主题。</p>
+
+<h4>活动报名</h4>
+
+<p>请到<a href="https://jinshuju.net/f/zR53Xd">金数据</a>填写报名表，如果您有打算演讲的主题，请务必记得在报名表中提供您的主题名称。小伙伴们快到碗里来，到时还会有好礼相赠哦！</p>
+
+<h4>报名表链接</h4>
+
+<p><a href="https://jinshuju.net/f/zR53Xd">金数据 - 2014.10.25广州Ruby聚会活动报名</a></p>
+
+<h4>联系方式</h4>
+
+<p>Email: martin at beansmile.com</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRUBY 第19 次聚会 - 19:00]]></title>
@@ -30,14 +65,10 @@
 
 <p>现在郑重宣布，GZRUBY第19次聚会定于下周三也就是<strong>本月的27号</strong>晚上举办，具体时间地点如下：</p>
 
-<p>聚会安排:</p>
-
-<ul>
-<li>19:00-19:30 自我介绍以及开场</li>
-<li>19:30-20:30 主题演讲</li>
-<li>20:30-21:30 自由交流</li>
-</ul>
-
+<p>聚会安排:
+* 19:00-19:30 自我介绍以及开场
+* 19:30-20:30 主题演讲
+* 20:30-21:30 自由交流</p>
 
 <h4>演讲主题/Speech Topic: 主题不限</h4>
 
@@ -69,13 +100,9 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 
 <p>经历了4月份<a href="http://heartbleed.com">Heartbleed</a>漏洞的一夜惊魂，对于Web应用的安全，大家是否有好的工具以及方法可以分享？Rails 4.1已经正式发布，对于其诸多新特性，你是否已经准备好了分享自己的经验？是Spring？是Variants？是Mailer previews？还是你有除此之外，自己更加关注的主题？欢迎大家带上自己的主题，让我们聚在一起分享吧！</p>
 
-<p>聚会安排:</p>
-
-<ul>
-<li>19:00-20:30 主题演讲</li>
-<li>20:30-22:00 自由交流</li>
-</ul>
-
+<p>聚会安排:
+* 19:00-20:30 主题演讲
+* 20:30-22:00 自由交流</p>
 
 <h4>时间/When: 星期五－5月30号 19:00 / May 30, 7:00 PM</h4>
 
@@ -91,13 +118,13 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[GZRUBY17 - 3月26日 - 19:00]]></title>
+    <title type="html"><![CDATA[GZRUBY17 - 3月26日 - 19:30]]></title>
     <link href="http://www.gzruby.org/blog/2014/03/18/gzruby-march-2014/"/>
     <updated>2014-03-18T13:56:00+08:00</updated>
     <id>http://www.gzruby.org/blog/2014/03/18/gzruby-march-2014</id>
     <content type="html"><![CDATA[<p>Hello Rubyist!</p>
 
-<p>2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于<strong>周三，3月26号</strong>晚上19:00在<strong>地点</strong>举行。这次我们的场地换到一个创业公司：FocusCom，感谢他们的合作。在岗顶附近天河商贸大厦14楼。</p>
+<p>2014年第一次GZRUBY聚会，也是我们第17次GZRUBY活动, 将于<strong>周三，3月26号</strong>晚上19:00在<strong>地点</strong>举行。</p>
 
 <p>除了广州本地的Rubyist之外，本次我们还欢迎来自云梯的<a href="http://ruby-china.org/kgen">kgen (Kgen Bao)</a>，以及来自上海的<a href="http://ruby-china.org/jasli2">jasli2</a>，相信他们的加入会让本次聚会的内容更加精彩。</p>
 
@@ -622,34 +649,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>Any topic ideas or plans, let us know on the mailing list.</p>
 
 <h2>Wow, this is a large meeting! Thanks for coming everyone!</h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第三次聚会/gzruby meetup #3]]></title>
-    <link href="http://www.gzruby.org/blog/2011/11/18/notes-from-the-3rd-gzruby-meetup/"/>
-    <updated>2011-11-18T11:27:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2011/11/18/notes-from-the-3rd-gzruby-meetup</id>
-    <content type="html"><![CDATA[<p><img src="images/seb_gzruby.jpeg" style="width: 800px" alt="Image of Seb with a slide" title="Seb explains his scaling methods" /></p>
-
-<p>非常感谢大家抽空过来参加昨晚的<strong>gzruby</strong>聚会。不仅可以跟使用ruby的老友记们交流，而且也是一次认识新朋友的好机会。很高兴看到使用<strong>ruby</strong>的朋友越来越多，并且可以相互分享当中的快乐<br />
-Thanks to everyone who attended the <strong>gzruby</strong> meetup last wednesday night. It was great to get a chance to meet up with our ruby friends and we also met a lot of new people. It‘s exciting to see how the community is growing as we gain new members and introduce more people to the joys of ruby.</p>
-
-<p> 以下是大家的一些分享 / The presentations included:</p>
-
-<ul>
-<li>Launch of <strong><a href="http://gems.gzruby.org">http://gems.gzruby.org</a></strong>, the GZRUBY rubygems mirror</li>
-<li><strong>Real Life Rails Scaling</strong>, by <a href="http://cn.linkedin.com/in/sebastianroth">Seb</a>. Scaling your app, your team, and yourself. (<a href="http://www.slideshare.net/SebastianRoth/rails-scaling">slides</a>)</li>
-<li><strong>method_proxy</strong> - some fun with ruby&#8217;s dynamic programming, by <a href="http://github.com/jevgz">Jev</a>. A look at how we can utilize ruby&#8217;s meta-programming features to get deep insight into our code. (<a href="https://github.com/kudelabs/method_proxy">method_proxy sample code</a>, <a href="https://github.com/downloads/kudelabs/method_proxy/method_proxy-at-GZ-Ruby-Conf-Nov2011.odp">slides</a>)</li>
-<li><strong>Cloud Service API design</strong>, by <a href="http://cn.linkedin.com/in/chancejiang">Chance Jiang</a></li>
-</ul>
-
-
-<p>让我们一起期待下一次<strong>gzruby</strong>聚会，2012年1月18日（预计）.
-明年见<br />
-Really looking forward to the next meeting, planned for <strong>Jan 18, 2012</strong>! See you all next year.</p>
-
-<p>Photo by/ 照片提供：<a href="http://www.weibo.com/littlepxy">littlepxy</a></p>
 ]]></content>
   </entry>
   
