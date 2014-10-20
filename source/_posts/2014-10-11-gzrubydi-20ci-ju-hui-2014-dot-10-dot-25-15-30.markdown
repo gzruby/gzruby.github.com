@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZRUBY第20次聚会 - 2014.10.25 15:30"
+title: "GZRUBY第20次聚会 - 2014.10.25 15:00"
 date: 2014-10-11 20:07
 comments: true
 categories: 
