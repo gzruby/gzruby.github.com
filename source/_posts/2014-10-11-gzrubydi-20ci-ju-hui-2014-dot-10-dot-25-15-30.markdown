@@ -30,7 +30,8 @@ Hello Rubyist!
 
 以下会持续更新已收集到的主题：  
 1. **Martin - 《Spree 2的那些事》**  
-2. **Shou Ya - 《Have fun with Rails metaprogramming magic》**
+2. **Shou Ya - 《Have fun with Rails metaprogramming magic》**  
+3. **Rex - 《云时代的编程方法——Lemina Programming》**
 
 #### 活动报名
 请到[金数据](https://jinshuju.net/f/zR53Xd)填写报名表，如果您有打算演讲的主题，请务必记得在报名表中提供您的主题名称。本次聚会，我们会为每个讲师送上好礼一份，其他到场朋友也会有机会得到礼品哦。
