@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-10-21T20:31:49+08:00</updated>
+  <updated>2014-10-23T13:22:13+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -55,7 +55,8 @@
 <p>以下会持续更新已收集到的主题：<br/>
 1. <strong>Martin - 《Spree 2的那些事》</strong><br/>
 2. <strong>Shou Ya - 《Have fun with Rails metaprogramming magic》</strong><br/>
-3. <strong>Rex - 《云时代的编程方法——Lemina Programming》</strong></p>
+3. <strong>Rex - 《云时代的编程方法——Lemina Programming》</strong><br/>
+4. <strong>周建平 - 《Hypermedia API Design》</strong></p>
 
 <h4>活动报名</h4>
 
