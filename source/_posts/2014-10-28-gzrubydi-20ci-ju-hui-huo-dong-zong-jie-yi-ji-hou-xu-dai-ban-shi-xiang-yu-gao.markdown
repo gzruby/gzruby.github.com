@@ -13,11 +13,9 @@ categories:
 ### 活动总结
 这个月的Party虽然收到其他同时间的活动的影响，到场人数为20+个人，但是还是非常高兴能够见到一些新鲜的面孔，说明我们的Ruby社区正在逐步壮大，这是好事。
 
-<!-- More -->
+好了，废话不多说，下面简单介绍下上周六，各位讲师都带来了什么精彩内容，点击主题名称后的链接可以直接前往讲稿网查看讲师讲稿。
 
-好了，废话不多说，下面简单介绍下上周六，各位讲师都带来了什么精彩内容，点击主题名称可以直接查看讲师讲稿。
-
-**1. Martin - [《Spree 2的那些事》](http://jianggaowang.com/slides/13)**  
+**1. Martin - 《Spree 2的那些事》** [前往讲稿网查看](http://jianggaowang.com/slides/13)  
 Martin在这个主题中主要介绍了从Spree 2.0开始，直到最近的Spree 2.4，Spree 2都给开发者主要提供了哪些新的功能或者特性，包括Model层的I18n，核心代码的分离等等。  
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/55c9b4bf4095d717fb47873f2137c9f8.jpg)
 
@@ -28,11 +26,11 @@ Shou Ya在Party现场为各位Rubyist演示了如何通过元编程技术实现�
 **3. Rex - 《云时代的编程方法——Lemina Programming》(该主题应讲师要求，未公开讲稿信息)**  
 Lemina Programming是由Rex提出的一种新的编程范式，Rex在现场通过一个实际的小例子，为大家展示了Lemina Programming是如何区别于经典的OOP方法的。Lemina Programming的目标是成为下一代，即云时代和多核时代的主流编程模型。
 
-**4. 周建平 - [《Hypermedia API Design》](http://jianggaowang.com/slides/18)**  
+**4. 周建平 - 《Hypermedia API Design》** [前往讲稿网查看](http://jianggaowang.com/slides/18)  
 周建平讲师在主题中主要讲解了基于网络的系统架构的七个主要属性，并且对比研究了现有的几大架构（数据流风格、复制风格、分层风格、移动代码风格以及对等风格），最后通过REST提出了对于Hypermedia API设计的几个建议。  
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/2171067117bc11b342054fed0e4c24ea.jpg)
 
-**5. Justin - [《CanCan下前后端结合的权限设计》](http://jianggaowang.com/slides/16)**  
+**5. Justin - 《CanCan下前后端结合的权限设计》** [前往讲稿网查看](http://jianggaowang.com/slides/16)  
 Justin在主题中以实际例子引出业务系统中多角色权限系统设计的难题，并且演示了CanCan的用法，以及如何结合Canard实现基于角色的访问控制，并且最后演示了如何将CanCan与Backbone结合，实现一套完整的前后端结合的权限系统。  
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/d5184258189d14109790ff2b217d64f4.jpg)
 
@@ -43,7 +41,9 @@ Justin在主题中以实际例子引出业务系统中多角色权限系统设�
 最近的几次活动，非常感谢各位小伙伴一直都在积极地向GZRuby提供许多很好的建议，通过尝试，也确实获得了一些肯定，为了能够更好地服务社区，我们暂定一下工作作为我们的待办事项，我们会尽快完成这些工作，但是由于大家平时都非常忙，如果有所怠慢，还请大家多多谅解。
 
 #### 1. 建立微信群组
-最近两次活动，都收到小伙伴们的强烈建议，希望能有一个集中营方便大家平时也能聚在一起聊天，所以我们会在这几天建立微信群组，并且到时邀请各位朋友进群，同时也会发布二维码到Ruby China论坛，敬请留意。
+~~最近两次活动，都收到小伙伴们的强烈建议，希望能有一个集中营方便大家平时也能聚在一起聊天，所以我们会在这几天建立微信群组，并且到时邀请各位朋友进群，同时也会发布二维码到Ruby China论坛，敬请留意。~~  
+我们已经建立了GZRuby的微信群组，现在已经有部分Rubyist进入群里了，欢迎扫码加入：
+![](https://ruby-china-files.b0.upaiyun.com/photo/2014/203d0f152b9edf3df61dd258b9ecc7d5.png)
 
 #### 2. 微信公众号
 现在每次新活动需要公告的话，我们都只能通过官网以及Ruby China发布，为了能够更加及时通知到大家，我们正在准备搭建GZRuby的微信公众号。
