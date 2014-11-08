@@ -97,8 +97,14 @@
         <lastmod>2014-10-29T11:25:31+08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.gzruby.org/blog/2014/11/08/yan-zhou-2014nian-11yue-29ri-gzruby-di-21-ci-ju-hui-15-00/
+        </loc>
+        <lastmod>2014-11-08T15:33:49+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.gzruby.org/blog/archives/</loc>
-        <lastmod>2014-10-29T11:25:31+08:00</lastmod>
+        <lastmod>2014-11-08T15:33:49+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.gzruby.org/group-members/</loc>
@@ -106,6 +112,6 @@
     </url>
     <url>
         <loc>http://www.gzruby.org/</loc>
-        <lastmod>2014-10-29T11:25:31+08:00</lastmod>
+        <lastmod>2014-11-08T15:33:49+08:00</lastmod>
     </url>
 </urlset>

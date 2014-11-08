@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-10-29T11:26:13+08:00</updated>
+  <updated>2014-11-08T15:34:28+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[广州][2014年11月29日] GZRUBY 第 21 次聚会 - 15:00]]></title>
+    <link href="http://www.gzruby.org/blog/2014/11/08/yan-zhou-2014nian-11yue-29ri-gzruby-di-21-ci-ju-hui-15-00/"/>
+    <updated>2014-11-08T15:30:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/11/08/yan-zhou-2014nian-11yue-29ri-gzruby-di-21-ci-ju-hui-15-00</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>从<a href="https://ruby-china.org/topics/21946">上次GZRuby Party</a>发帖到现在，又是一个月过去了哦，按照<a href="https://ruby-china.org/topics/22323">上个月的总结与计划</a>，我们决定提高GZRuby Party的活动频率为一个月一次，那么，问题来了，这个月的活动怎么安排呢？这个月的活动安排是不是又会有调整呢？君莫急，且听小弟一一道来。</p>
+
+<p>首先，本月的活动，我们希望尝试引导有方向性的主题讨论，我们会为Party定下一个主题，然后由讲师带来与主题相关的演讲，当然，我们仍然欢迎其他与Ruby或者是Web领域相关的问题，只是我们可能会安排与活动主题相关的演讲优先开讲。</p>
+
+<p>其次，根据上次的活动经验，我们决定这次的活动在演讲间隙加入茶歇环节，好让听众可以更好地吸收演讲内容以及放松。</p>
+
+<p>话不多说，我们进入正题：</p>
+
+<h3>活动主题 - 《Rubyist的移动互联网》</h3>
+
+<p>在移动互联网如火如荼的今天，各种新技术应运而生，作为Rubyist的我们如何争当各种新玩意的弄潮儿？面对移动互联网的项目需求，你如何结合已有一技之长挖掘新价值？在这个月的活动中，我们期待一起讨论与移动互联网以及Ruby有关的一切。</p>
+
+<p>我们所期待的这一切，可能是与Ruby语言有相似性的Swift语言，也可能是一直在发展强大的RubyMotion；可能是如何利用Rails实现微信公众号的开发，也可能是如何利用Rails结合前端框架实现WebApp的一切。作为一个Rubyist，同时也是一个Web开发者，你如何利用已有的技术，在新的技术领域中惬意徜徉？一切的一切，我们都想知道，都想分享！</p>
+
+<p><strong>注意：</strong>我们会持续在本帖更新已经收集到的演讲主题，请大家多多留意。</p>
+
+<h3>特别公告</h3>
+
+<p>11月份因为各种原因错过今年RubyConf的同学们不用过于伤心哈，本次Party我们也会带上今年RubyConf的贴纸到现场跟大家分享，另外我们也邀请到了本次大会的其中一位讲师，来自深圳恰恰网络的张泽涛，给我们带来RubyMotion的演讲。届时大家就可以直接在Party上一睹RubyConf讲师风采了。</p>
+
+<h3>活动时间</h3>
+
+<p>本月的Party按照之前的计划定在了本月最后一个星期六的下午，也就是11月29日。活动时间仍旧是下午3点开始，预计用时两个半小时。</p>
+
+<ul>
+<li>时间/When: 星期六－10月25号 15:00 / Sat 25, 15:00 PM</li>
+<li>聚会安排:
+
+<ul>
+<li>15:00-15:45 主题演讲</li>
+<li>15:45-16:00 茶歇休息</li>
+<li>16:00-16:45 主题演讲</li>
+<li>16:40-17:30 茶歇休息 &amp; 自由交流</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>活动场地（暂定）</h3>
+
+<ul>
+<li>地点/Where: 越秀区明月二路春风路福安家政对面士多店进 The Strand Beer Cafe</li>
+<li>地铁/Metro: 五羊村A出口/Line 5 - Wu Yang Cun, Exit A
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/62bfb6e7dad7e030e96b5655a09c8bc3.png" alt="地图" /></li>
+</ul>
+
+
+<h3>活动报名</h3>
+
+<p>本月的活动我们仍旧会在<a href="https://jinshuju.net/f/SPe3IR">金数据</a>上收集报名信息，请大家及早报名，有演讲主题的同学也请直接在报名表上填写主题名称。</p>
+
+<h3>联系方式</h3>
+
+<p>Email: martin at beansmile.com</p>
+
+<p>wechat: hong_zeqin</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GZRuby第20次聚会活动总结以及后续待办事项预告]]></title>
@@ -671,47 +737,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
 
 <p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Notes From 第四聚会/Meetup #4]]></title>
-    <link href="http://www.gzruby.org/blog/2012/01/11/notes-from-the-4th-meeting/"/>
-    <updated>2012-01-11T20:11:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/01/11/notes-from-the-4th-meeting</id>
-    <content type="html"><![CDATA[<p>Last Wednesday, Jan 11th we held our fourth meetup. Again, we had a wonderful time getting to know fellow rubyists. There were quite a few new faces, including <a href="http://haifengsoft.com">visitors from Denmark</a>, and new <a href="http://favoritemedium.com">members from Singapore</a>. We love to meet new people, so if you have friends or know anyone who may be interested, please bring them along next time.</p>
-
-<p>As is our custom, we started the meeting with general introductions, then went into our talks for the evening. Here are some notes on the topics presented:</p>
-
-<ul>
-<li><p><strong>Introducing <a href="http://www.gzruby.org">http://www.gzruby.org</a></strong></p>
-
-<p>The official blog for gzruby. We plan to use the blog to record our meetings and as a landing page for Ruby and Rails in South China. As our organization grows, we hope people continue to find the blog and that makes it easier for them to find the group and come to a meeting. This is the site for our community, so please make suggestions or contribute directly. The source is on <a href="http://github.com/gzruby/gzruby.github.com">github</a>.</p>
-
-<p>Presented by <a href="http://github.com/adevadeh">@adevadeh</a></p></li>
-<li><p><strong>Zero-config local servers - pow <a href="http://pow.cx">http://pow.cx</a></strong></p>
-
-<p>This is a great way for developers and testers to run apps locally. Why not use <code>rails server</code> you may ask? Because rather than starting and stopping your app all the time, your <code>pow</code> server will just keep your app running. You don&#8217;t need to fuss about with ports, so it&#8217;s easy to run multiple apps at the same time. If you are working with any oauth APIs such as the Facebook API, you need a real domain name for your test app; <code>pow</code> gives you a really easy way to set that up. Don&#8217;t forget, you should also check out the <a href="http://pow.cx/manual.html#section_4"><code>pow</code> helper gems</a> to make things even easier.</p>
-
-<p>Presented by <a href="http://twitter.com/teohm">HuiMing</a></p></li>
-<li><p><strong>The Joys of seed-fu <a href="https://github.com/mbleigh/seed-fu">https://github.com/mbleigh/seed-fu</a></strong></p>
-
-<p>Making sure your Rails app has the right data to start things off can get really cumbersome. seed-fu helps make the process a little more streamlined and friendly. You can easily specify objects that need to be created and stored in your DB every time you start your app.</p>
-
-<p>Presented by <a href="http://weibo.com/huipingc">Kevin</a></p></li>
-<li><p><strong>The Future of Personal Robotics <a href="assets/EmergingParadigms_Robotics.pdf">(slides)</a></strong></p>
-
-<p>A very interesting talk indeed. We looked at where cheap robots are today, and what we could do to take them to the next level. We already have cheap robots that can move on their own, react to humans, and perform basic tasks. To expand the abilities of these robots, we could make the brain on the robot more sophisticated and expensive. But why not move the brain to the smartphone? This way we can add complex behaviors that interact with humans and the cloud. Robots from <a href="http://arexx.com.cn">http://arexx.com.cn</a> were demonstrated. Who knows, maybe soon we&#8217;ll have a <code>my_robot</code> gem that allows you to write apps to control a domestic helper robot.</p>
-
-<p>Presented by <a href="http://cn.linkedin.com/in/chancejiang">Chance Jiang</a></p></li>
-</ul>
-
-
-<hr />
-
-<p>Thanks very much to our presenters for sharing. We would like to encourage anyone to present at the next meeting. You can talk about anything you find interesting, or something you find useful in your work. By sharing with each other, we learn from each other, and we all become better developers.</p>
-
-<h3>See you at the next meeting, scheduled for Wed, March 21, 2012</h3>
 ]]></content>
   </entry>
   
