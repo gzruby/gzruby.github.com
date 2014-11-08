@@ -29,7 +29,7 @@ Hello Rubyist!
 ### 活动时间
 本月的Party按照之前的计划定在了本月最后一个星期六的下午，也就是11月29日。活动时间仍旧是下午3点开始，预计用时两个半小时。
 
-* 时间/When: 星期六－10月25号 15:00 / Sat 25, 15:00 PM
+* 时间/When: 星期六－11月29号 15:00 / Sat 29, 15:00 PM
 * 聚会安排:
     * 15:00-15:45 主题演讲
     * 15:45-16:00 茶歇休息
@@ -48,3 +48,6 @@ Hello Rubyist!
 Email: martin at beansmile.com
 
 wechat: hong_zeqin
+
+#### GZRuby官方微信群
+![微信群组二维码](https://ruby-china-files.b0.upaiyun.com/photo/2014/203d0f152b9edf3df61dd258b9ecc7d5.png)
