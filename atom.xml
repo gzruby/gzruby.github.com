@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-11-22T11:34:42+08:00</updated>
+  <updated>2014-11-25T13:55:52+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -35,6 +35,14 @@
 <p>我们所期待的这一切，可能是与Ruby语言有相似性的Swift语言，也可能是一直在发展强大的RubyMotion；可能是如何利用Rails实现微信公众号的开发，也可能是如何利用Rails结合前端框架实现WebApp的一切。作为一个Rubyist，同时也是一个Web开发者，你如何利用已有的技术，在新的技术领域中惬意徜徉？一切的一切，我们都想知道，都想分享！</p>
 
 <p><strong>注意：</strong>我们会持续在本帖更新已经收集到的演讲主题，请大家多多留意。</p>
+
+<h4>1. 张泽涛 - 《如何用RubyMotion快速开发iOS App》</h4>
+
+<p><strong>内容：</strong><br/>
+1、介绍RubyMotion及期生态链、国内外RubyMotion的社群发展<br/>
+2、RubyMotion的实战开发经验分享<br/>
+3、Rails程序员如何转型RubyMotion开发<br/>
+4、RubyMotion常用工具及资源分享</p>
 
 <h3>特别公告</h3>
 
