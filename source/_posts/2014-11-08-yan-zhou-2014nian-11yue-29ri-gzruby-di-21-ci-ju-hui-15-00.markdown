@@ -23,6 +23,13 @@ Hello Rubyist!
 
 **注意：**我们会持续在本帖更新已经收集到的演讲主题，请大家多多留意。
 
+#### 1. 张泽涛 - 《如何用RubyMotion快速开发iOS App》
+**内容：**  
+1、介绍RubyMotion及期生态链、国内外RubyMotion的社群发展  
+2、RubyMotion的实战开发经验分享  
+3、Rails程序员如何转型RubyMotion开发  
+4、RubyMotion常用工具及资源分享
+
 ### 特别公告  
 11月份因为各种原因错过今年RubyConf的同学们不用过于伤心哈，本次Party我们也会带上今年RubyConf的贴纸到现场跟大家分享，另外我们也邀请到了本次大会的其中一位讲师，来自深圳恰恰网络的张泽涛，给我们带来RubyMotion的演讲。届时大家就可以直接在Party上一睹RubyConf讲师风采了。
 
