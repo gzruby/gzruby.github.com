@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-12-22T12:50:24+08:00</updated>
+  <updated>2014-12-22T22:54:25+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -66,6 +66,7 @@ wechat: hong_zeqin</p>
 
 <ol>
 <li>高金华 - 《Sass 和 Compass 在 web 开发中的实践》</li>
+<li>Coding 王振威 - 《你不了解的 nginx 功能》</li>
 </ol>
 
 
