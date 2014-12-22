@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-12-19T15:35:03+08:00</updated>
+  <updated>2014-12-22T12:50:24+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -61,6 +61,15 @@
 
 <p>Email: martin at beansmile.com
 wechat: hong_zeqin</p>
+
+<h3>以下是目前为止已经确认的主题</h3>
+
+<ol>
+<li>高金华 - 《Sass 和 Compass 在 web 开发中的实践》</li>
+</ol>
+
+
+<p>更多主题现在还在沟通确认中，敬请大家保持关注！</p>
 ]]></content>
   </entry>
   
