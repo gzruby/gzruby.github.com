@@ -35,3 +35,8 @@ Hello Rubyist!
 ### 联系方式
 Email: martin at beansmile.com
 wechat: hong_zeqin
+
+### 以下是目前为止已经确认的主题
+1. 高金华 - 《Sass 和 Compass 在 web 开发中的实践》
+
+更多主题现在还在沟通确认中，敬请大家保持关注！
