@@ -38,6 +38,7 @@ wechat: hong_zeqin
 
 ### 以下是目前为止已经确认的主题
 1. 高金华 - 《Sass 和 Compass 在 web 开发中的实践》  
-2. Coding 王振威 - 《你不了解的 nginx 功能》
+2. Coding 王振威 - 《你不了解的 nginx 功能》  
+3. 周建平 - 《API 开发中 token based authentication 的原理和松耦合的权限管控》
 
 更多主题现在还在沟通确认中，敬请大家保持关注！
