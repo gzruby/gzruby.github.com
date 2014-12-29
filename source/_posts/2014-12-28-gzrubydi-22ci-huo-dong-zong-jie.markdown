@@ -16,13 +16,13 @@ Party](https://ruby-china.org/topics/23285)，尽管天气较冷，还下起了�
 
 以下简单总结本次活动中各位讲师带来的精彩内容，点击主题名称后的链接可以直接在讲稿网查看演讲内容。
 
-**1. 高金华 - 《 Sass 和 Compass 在 Web 开发中的实践》**
+**1. 高金华 - 《 Sass 和 Compass 在 Web 开发中的实践》** [链接](http://jianggaowang.com/slides/48)
 
 Sass 是一种拓展了 CSS3 规则的样式语言，提供了变量、函数、嵌套等便于 CSS 开发的特性，并可以编译成 CSS 代码应用于生产环境中。在这个主题中，高金华详细介绍了 Sass 的基本语法及使用，并结合生动的例子演示如何利用 Sass 的新特性来对样式代码进行良好的组织。
 
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/b38be11c3eb16bce87d8b2d8d6c85ca1.jpg)
 
-**2. 王振威 - 《 你不知道的 Nginx 》**
+**2. 王振威 - 《 你不知道的 Nginx 》** [链接](http://jianggaowang.com/slides/49)
 
 Nginx 是我们在生产环境中常用的HTTP和反向代理服务器，相信众多开发者（特别是后端）或多或少都会接触到。
 但 Nginx 除了基本的反向代理、静态资源处理等功能外，还有不为人熟知的诸多应用场景。
@@ -31,7 +31,7 @@ Nginx 是我们在生产环境中常用的HTTP和反向代理服务器，相信�
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/089f892a0027775efc6090bf38090489.jpg)
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2014/2dec11e62817c168384511047bf2bad6.jpg)
 
-**3. 周建平 - 《 Token Based & Loose Coupling Auth in API designing 》**
+**3. 周建平 - 《 Token Based & Loose Coupling Auth in API designing 》** [链接](http://jianggaowang.com/slides/50)
 
 在API设计中，需要仔细考虑如何进行用户验证和用户权限管理；同时，如何在前后端组织同一份用户权限的信息（knowledge）也是开发者需要斟酌的问题。
 来自艾道信息咨询的周建平为我们讲解了基于 JWT(Json Web Token) 的 API 验证方法：在用户登录时利用用户非敏感信息和 secret key 组装的方式生成 JWT 并返回，客户端利用收到的 Token 来进行后续的验证；同时利用验证时返回的指令集来规定客户端用户的权限，以达到前后端代码松耦合的效果。
@@ -68,4 +68,4 @@ martin at beansmile.com, allen at dxhackers.com
 
 最后加上 GZRuby 微信交流群的二维码，欢迎感兴趣的朋友们加入！
 
-![](https://ruby-china-files.b0.upaiyun.com/photo/2014/3bd3aacec53fc03a1627ade2c5ac6d68.png)
+![](https://ruby-china-files.b0.upaiyun.com/photo/2014/75f79a02aa41ea66f8274dbefed00928.png)
