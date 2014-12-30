@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2014-12-24T22:14:49+08:00</updated>
+  <updated>2014-12-30T13:34:59+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GZRuby第22次活动总结]]></title>
+    <link href="http://www.gzruby.org/blog/2014/12/28/gzrubydi-22ci-huo-dong-zong-jie/"/>
+    <updated>2014-12-28T11:09:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2014/12/28/gzrubydi-22ci-huo-dong-zong-jie</id>
+    <content type="html"><![CDATA[<p>各位Rubyist好！</p>
+
+<p>这周六我们在广州T.I.T创意园的CCIC联合文创举行了<a href="https://ruby-china.org/topics/23285">第22次的GZRuby
+Party</a>，尽管天气较冷，还下起了小雨，但还是不能阻挡与会者的热情 :)</p>
+
+<h3>活动回顾</h3>
+
+<h4>分享内容</h4>
+
+<p>以下简单总结本次活动中各位讲师带来的精彩内容，点击主题名称后的链接可以直接在讲稿网查看演讲内容。</p>
+
+<p><strong>1. 高金华 - 《 Sass 和 Compass 在 Web 开发中的实践》</strong> <a href="http://jianggaowang.com/slides/48">链接</a></p>
+
+<p>Sass 是一种拓展了 CSS3 规则的样式语言，提供了变量、函数、嵌套等便于 CSS 开发的特性，并可以编译成 CSS 代码应用于生产环境中。在这个主题中，高金华详细介绍了 Sass 的基本语法及使用，并结合生动的例子演示如何利用 Sass 的新特性来对样式代码进行良好的组织。</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/b38be11c3eb16bce87d8b2d8d6c85ca1.jpg" alt="" /></p>
+
+<p><strong>2. 王振威 - 《 你不知道的 Nginx 》</strong> <a href="http://jianggaowang.com/slides/49">链接</a></p>
+
+<p>Nginx 是我们在生产环境中常用的HTTP和反向代理服务器，相信众多开发者（特别是后端）或多或少都会接触到。
+但 Nginx 除了基本的反向代理、静态资源处理等功能外，还有不为人熟知的诸多应用场景。
+来自 Coding.net 的王振威在演讲中介绍了 Nginx 的一些“冷门”功能，如正向代理，内部重定向，限制并发，配合 memcached 进行使用，配合 lua 进行使用等，可谓干货多多。</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/089f892a0027775efc6090bf38090489.jpg" alt="" />
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/2dec11e62817c168384511047bf2bad6.jpg" alt="" /></p>
+
+<p><strong>3. 周建平 - 《 Token Based &amp; Loose Coupling Auth in API designing 》</strong> <a href="http://jianggaowang.com/slides/50">链接</a></p>
+
+<p>在API设计中，需要仔细考虑如何进行用户验证和用户权限管理；同时，如何在前后端组织同一份用户权限的信息（knowledge）也是开发者需要斟酌的问题。
+来自艾道信息咨询的周建平为我们讲解了基于 JWT(Json Web Token) 的 API 验证方法：在用户登录时利用用户非敏感信息和 secret key 组装的方式生成 JWT 并返回，客户端利用收到的 Token 来进行后续的验证；同时利用验证时返回的指令集来规定客户端用户的权限，以达到前后端代码松耦合的效果。</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/e5346053aea7cd506f6a0de943efef74.jpg" alt="" />
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/5beb46306462f6ae1605f756d1eb3f92.jpg" alt="" />
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/8da028839b8c6e36d726cb828f91bc9f.jpg" alt="" /></p>
+
+<h4>即兴演讲环节</h4>
+
+<p>除了固定的讲师分享外，我们还加入了即兴演讲的环节，在场的小伙伴们就函数式语言聊起来了 ;)</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/491fa5c38da94be000251986b4e37d16.jpg" alt="" /></p>
+
+<p>最后再放上合照一张！</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/6deb35471f7e14d7471c2e912561f65b.jpg" alt="" />
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/c5fb2622cc8e5486f1ddaf71db9c6a56.jpg" alt="" />
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/e8e595ea420fe04b4cf876178fa228ce.jpg" alt="" /></p>
+
+<h3>总结&amp;展望</h3>
+
+<p><del>每到这个时候就会有很多人说“新的一年，新的希望”（我们也不例外,LOL）</del></p>
+
+<p>随着本次 GZRuby 的顺利完成，2014年的活动也告一段落了，从1月份的<a href="https://ruby-china.org/topics/16052">Rails Girls
+</a>，3月份的<a href="https://ruby-china.org/topics/17989">第17次活动</a>，再到本月的<a href="https://ruby-china.org/topics/23285">第22次活动</a>，GZRuby 一直坚持下来，作为 Ruby 气氛并不是太浓厚的广州城的坚守。这里要感谢为活动提供场地的Strand Beer，FocusCom，铂涛酒店，CCIC联合文创，以及历次参加活动的讲师们和朋友们！</p>
+
+<p>2015年 GZRuby 的活动会继续进行，活动频度仍旧为1个月1次，新的活动会在<a href="http://gzruby.org">官网</a>，Ruby China 以及 GZRuby 的微信群中发布消息，同时我们也争取尽快建立 GZRuby 的微信公众号。</p>
+
+<p>希望社区的朋友们继续多多支持，更欢迎为活动贡献主题，有任何意见或者建议欢迎直接联系我们。联系方式：
+martin at beansmile.com, allen at dxhackers.com</p>
+
+<h3>GZRuby 微信交流群</h3>
+
+<p>最后加上 GZRuby 微信交流群的二维码，欢迎感兴趣的朋友们加入！</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/75f79a02aa41ea66f8274dbefed00928.png" alt="" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[广州][2014年12月27日] GZRUBY 第 22 次聚会 - 15:00]]></title>
@@ -745,53 +817,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
 
 <p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Notes from 第五聚会/meetup #5]]></title>
-    <link href="http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5/"/>
-    <updated>2012-05-09T15:20:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/05/09/notes-from-meetup-number-5</id>
-    <content type="html"><![CDATA[<p><img src="images/meetup5.jpg" style="width: 800px" alt="Happy group members" title="Join us every other month!" /></p>
-
-<p>OK, this is a bit late. The last gzruby meeting we held, on March 21, was a great success: we had visitors from Shenzhen and a <a href="http://twitter.com/#!/danielkehoe">Rails hero from the US</a>; we imbibed some <a href="http://www.weibo.com/strandbeer">great beer made by one of our members</a>; and to top it all off we had some really fun and exciting presentations.</p>
-
-<ul>
-<li><p><strong>Working with Bootstrap <a href="http://twitter.github.com/bootstrap/">http://twitter.github.com/bootstrap/</a></strong></p>
-
-<p>With Rails, we have a very stable and mature back-end framework that allows us to write code in a standard way. Bootstrap from Twitter provides a similar functionality for the front-end. Rather than rolling your own css again and again, bootstrap gives you a standard way to layout your HTML pages, a standard way to style buttons and other elements, and it is generally much better than anything you could come up with on your own.</p>
-
-<p>Presented by <a href="https://github.com/leondu">Leon Du</a> (<a href="http://www.slideshare.net/leondu/twitter-bootstrap-12949509">slides</a>)</p></li>
-<li><p><strong>Introducing Web-App-Themes <a href="https://github.com/pilu/web-app-theme">https://github.com/pilu/web-app-theme</a></strong></p></li>
-</ul>
-
-
-<p> When starting a new app, we have to choose how to style it. We want it to look nice, but don&#8217;t want to spend time designing colors or write out tons of markup. Web App Themes takes care of this for us. But rather than an engine or an almost ready made app, it simply helps you generate HTML and CSS for you to use as you see fit. For certain projects where you just need to get started with some reasonable good looking HTML and CSS, Web App Themes may be your best option.</p>
-
-<p>  Presented by <a href="https://github.com/shaokun">@shaokun</a></p>
-
-<ul>
-<li><p><strong>The Wonders of Pry <a href="https://github.com/pry/pry">https://github.com/pry/pry</a></strong></p>
-
-<p>Pry is an IRB replacement that will knock your socks off. William certianly knocked our socks off with his presentation! Imagine being able to treat your entire ruby process&#8217; object space like a simple filesystem, where you can travel down paths to inspect data, <code>cd ..</code> to go back, and search down another branch. You can even ask questions like &#8220;Which method on (this object) could give me (this result)?&#8221; If you are a ruby developer and haven&#8217;t seen pry, you need to give it a look.</p>
-
-<p>To invoke pry in your rails app, just add the line: <code>(require pry; binding.pry) #!!</code></p>
-
-<p>Presented by William</p></li>
-<li><p><strong>Rails App Templates <a href="http://railsapps.github.com/">http://railsapps.github.com/</a></strong></p>
-
-<p>The Rails ecosystem is full of choices, you&#8217;ve got gems and engines, fixture generators and testing frameworks. This can get overwhelming as technologies change fast. That&#8217;s where this project comes in. It attempts to provide up-to-date documentation on the latest best-practices with Rails. Whether its building apps that use Devise for authentication, or how to integrate bootstrap into Rails, Rails Apps has you covered. Check out their extensive list of template apps and detailed tutorials.</p>
-
-<p>Presented by <a href="http://www.linkedin.com/in/danielkehoe">Daniel Kehoe</a></p></li>
-</ul>
-
-
-<hr />
-
-<p>Thanks very much to our presenters for sharing. We really appreciate that you stood up to share what you&#8217;ve been working on or show us something that may help us in our daily work. We hold these meetings to learn from each other, so be sure to give yourself some time to show other developers what you have learned.</p>
-
-<h3>See you at the next meeting, scheduled for Wed, May 16, 2012</h3>
 ]]></content>
   </entry>
   
