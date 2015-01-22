@@ -57,7 +57,7 @@ Nginx 是我们在生产环境中常用的HTTP和反向代理服务器，相信�
 ~~每到这个时候就会有很多人说“新的一年，新的希望”（我们也不例外,LOL）~~
 
 随着本次 GZRuby 的顺利完成，2014年的活动也告一段落了，从1月份的[Rails Girls
-](https://ruby-china.org/topics/16052)，3月份的[第17次活动](https://ruby-china.org/topics/17989)，再到本月的[第22次活动](https://ruby-china.org/topics/23285)，GZRuby 一直坚持下来，作为 Ruby 气氛并不是太浓厚的广州城的坚守。这里要感谢为活动提供场地的Strand Beer，FocusCom，铂涛酒店，CCIC联合文创，以及历次参加活动的讲师们和朋友们！
+](https://ruby-china.org/topics/16052)，3月份的[第17次活动](https://ruby-china.org/topics/17989)，再到本月的[第22次活动](https://ruby-china.org/topics/23285)，GZRuby 一直坚持下来，作为 Ruby 气氛并不是太浓厚的广州城的坚守。这里要感谢为活动提供场地的Strand Beer，FocusCom，铂涛酒店，CCIC联合文创，一直以来为我们活动提供礼品的 coding.net，以及历次参加活动的讲师们和朋友们！
 
 2015年 GZRuby 的活动会继续进行，活动频度仍旧为1个月1次，新的活动会在[官网](http://gzruby.org)，Ruby China 以及 GZRuby 的微信群中发布消息，同时我们也争取尽快建立 GZRuby 的微信公众号。
 
