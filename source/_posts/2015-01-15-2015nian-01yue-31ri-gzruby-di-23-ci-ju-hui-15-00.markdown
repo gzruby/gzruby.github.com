@@ -38,3 +38,6 @@ wechat: hong_zeqin
 
 最后附上 GZRuby 微信群的最新二维码，请各位赶紧投入组织的怀抱吧！
 ![GZRuby 微信群二维码](https://ruby-china-files.b0.upaiyun.com/photo/2015/f86f12227b4fbf212ef7662fb7bd4d5b.png)
+
+### 已确认演讲主题
+1. jasli2 - 《The Opposite of "Soft"ware》
