@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-01-27T14:50:46+08:00</updated>
+  <updated>2015-02-01T00:04:49+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[2015年01月31日] GZRuby 第 23 次聚会活动总结]]></title>
+    <link href="http://www.gzruby.org/blog/2015/01/31/yan-zhou-2015nian-01yue-31ri-gzruby-di-23-ci-ju-hui-huo-dong-zong-jie/"/>
+    <updated>2015-01-31T23:59:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2015/01/31/yan-zhou-2015nian-01yue-31ri-gzruby-di-23-ci-ju-hui-huo-dong-zong-jie</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我又来了，这次是活动总结帖啦。在半个月前，我们决定赶在农历新年之前再来一次 GZRuby 的聚会，戳这里看 <a href="https://ruby-china.org/topics/23765">上次的活动公告贴</a>。今天终于如期举办了活动，虽然由于年底各个团队都在忙于年会泡温泉出游吃年夜饭各种活动，这次活动的人数稍微少了点，但是我们依然能够见到新的面孔，依然阻止不了活动现场有许多非常激（ji）动（qin）的瞬间，趁着我现在还沉浸在今天这股热烈的氛围中，先把总结帖写下来，各位看官请赶紧坐定，好戏上场咯。</p>
+
+<p>先上个现场照！
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/964873c28826507d2a0c3d389727c225.jpg" alt="" /></p>
+
+<h3>主题一：李江成 -《The Opposite of &#8220;Soft&#8221;ware》</h3>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/c6ca2087e7a10e69a54e15dcc55fd6be.jpg" alt="" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今天活动的第一个主题中，江成给我们带来了软件领域之外却又跟软件极其相关的领域——硬件。在主题的演讲过程中，江成介绍了自己的硬件设计开发经验。眼下正是各种智能硬件以及开源硬件如火如荼的时代，作为一个软件开发者，如何才能更好地与硬件工程师一起合作呢？</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江成为我们详细介绍了硬件工程师在日常工作中的工作流程，涵盖了从需求说明确认到最终硬件量产的各个过程，并且借助大家所熟悉的软件开发经验，分别对比了硬件在模块化、可重用性、TDD、Hot Fix、敏捷开发以及 Copy &amp; Paste 的与软件开发的异同，从而见识到硬件开发者在这些方面的实践，要比软件开发困难许多，甚至诸如 TDD 此类的更是不可奢求的梦想(PS: 如果你身边有做硬件的工程师，请对他们好一点！)。</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而硬件作为软件的基础，硬件工程师在硬件设计开发完成后，就需要与软件工程师配合，以确保硬件正确可靠，使得目标软件系统能够在硬件上正常工作，这个过程叫作 “Bring up”，这也是软硬件工程师第一个需要相（qin）互（mi）配（jie）合（chu）的工作。而在完成 Bring up 的工作后，就是软件工程师们的舞台了。</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在整个过程中，硬件工程师们所做的工作，要比软件工程师麻烦许多，并且他们更多的是需要经验的积累以完成工作，但是软件又是以硬件为基础的，没有那么多优秀的硬件产品，我们的操作系统以及各种软件都是空谈。所以，江成最后以“Hardware is body, Software is the <strong>SOUL</strong>”作为本次演讲的结束语，并且呼吁大家在软件开发之余，也可以尝试多去了解硬件开发方面的工作。</p>
+
+<h3>主题二：李璞 - 《The Secrets to App Success on WeChat》</h3>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/2189f759cb2069d1571871762f917340.jpg" alt="" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今天的活动中，我们现场还收获了李璞的主题演讲。李璞带来的主题是关于在微信公众平台开发过程中遇到的坑以及各种填坑秘笈。</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在现场演讲中，李璞提到了在微信公众平台中，他们团队所遇到的关于应用授权登录、多平台账号打通、输入框安全验证、信息模板以及下载推广页优化等各类问题以及解决方案。而在现场讨论过程中，大家还一起讨论了关于微信公众平台的调试技巧，以及如何更快通过审核认证等非技术性问题。</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从讨论的情况来看，大家普遍吐槽微信公众平台接口不统一（有的接口返回 JSON，有的接口又返回 XML）以及非常任性（基本态度就是：接口就是我想改，想改就能改）。另外接口更新速度太快，目前社区尚未有对微信公众平台接口的高级封装实现，许多现有的 gem 都只是对接口的简单适配，开发者在使用过程中还是需要自己了解相关的背景知识，必要时候甚至还要给 gem 的作者添加实现以及修复 bug。</p>
+
+<h4>最后的最后</h4>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结束了今天的活动，我们的下一次活动就要等到3月份了，下次再见，已是羊年，在此提前预祝社区的朋友们羊年喜气洋洋，新的一年里财源滚滚！最后也特别感谢一直以来支持我们活动的各位朋友们，包括提供礼品赞助的 coding.net ，提供场地的 CCIC 联合文创以及铂涛酒店集团等，以及每次活动都能够坚持到现场支持活动的讲师跟听众朋友们，聚会不易，没有大家的支持，也不可能一路将活动坚持下来，希望大家在新的一年继续多多支持，我们也会一直加油更好地服务大家，且办且珍惜！</p>
+
+<p>最后依然按照惯例上一个 GZRuby 的微信群，还没加入的朋友人赶紧扫码归队哈！
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/3de59c0e4d4c1f942ff002aca4c88188.png" alt="GZRuby 二维码" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[2015年01月31日] GZRUBY 第 23 次聚会 - 15:00]]></title>
@@ -814,49 +855,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="http://groups.google.com/groups/gzruby">邮件列表</a>告诉我们吧!</p>
 
 <p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="http://groups.google.com/groups/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Notes from Meetup 6]]></title>
-    <link href="http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6/"/>
-    <updated>2012-05-29T15:30:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/05/29/notes-from-meetup-6</id>
-    <content type="html"><![CDATA[<p><img src="http://www.gzruby.org/images/meetup6.png" style="width: 800px" alt="We &lt;3 Ruby!" title="Join us every other month!" /></p>
-
-<p>I think we can all agree that the meeting held May 16, 2012 was one of our best yet. We had a bunch of new visitors. Its thrilling to see young rubyists joining our ranks, and at this meeting we had 5 recent graduates who all learned ruby on their own. We also love to see visitors from other platforms, we welcome anyone who has a passion for technology and software development.</p>
-
-<p>At this meeting we had the honor of hosting guests from China Telecom. They were looking to find the next great mobile app and learn about what current mobile app developers are thinking about. Visitors of all types are welcome - from different disciplines and different platforms. Developers don&#8217;t work in a vaccum, we need to work together with others to make sure our products get out into the world.</p>
-
-<p>Thanks again to <a href="http://weibo.com/strandbeer">Strand Beer</a> for the wonderful refreshment!</p>
-
-<ul>
-<li><p><strong>Namespace-less Rails Engines <a href="http://github.com/shaokun/nl-engine/">http://github.com/shaokun/nl-engine/</a></strong></p>
-
-<p>As we develop more and more applications, we find ways to make our life easier and start to re-use parts of an app in the next project. Hopefully, as time goes on, we can build reusable components that we can use in future apps to speed up development. In static, client side developemnt, this kind of code reuse is common and easily accomplished. In web development, when dealing with server side code, HTML, javascript and databases, it can get complicated. As of Rails 3.x Engines are very handy and a great way to share code between apps. But you don&#8217;t want exactly the same code in every project. Sometimes one client wants to be able to delete widgets, another client wants to edit widgets, and a third client wants to be able to copy her widgets. So the next question is, how do we share common code between apps, and use ruby&#8217;s object oriented nature to extend functionality.</p>
-
-<p>In his talk, Shaokun described a technique to make sharing code easier by building Rails Engines that can be overridden cleanly. The engine code is kept seperate and any custom functionality is implemented at the project level. Your engine can live in a git submodule, and all of your custom code - model, controller, and views - lives in your current project. This separation makes it easy to continue to maintain the core functionality while being able to satisfy each client&#8217;s needs.</p>
-
-<p>Presented by <a href="https://github.com/shaokun">伍少坤</a></p></li>
-<li><p><strong>Angular.js <a href="http://angularjs.org/">http://angularjs.org/</a> (<a href="http://igorminar.github.com/ng-slides/angular-intro/index.html">slides</a>)</strong></p>
-
-<p>Rails is a great framework for the server side. It gives you a well-defined structure and lots of tools for managing data and code on the server. Yet modern web apps have matured to the point where much of the interesting parts of the app are on the client side. On this side Rails shows some weakness - you need to mix several languages, js, css, html, erb into templates that are compiled server-side and then sent to the browser fully-baked. In today&#8217;s world of highly interactive and dynamic web applications, the Rails way is simply no longer good enough.</p>
-
-<p><a href="https://github.com/angular/angular.js">Angular.js</a> is one of many projects attempting to fill in this gap. It is a way to manage client side view logic compltely in the browser using pure HTML and JS. Similar to projects like <a href="http://emberjs.com/">ember.js</a> and <a href="http://backbonejs.org/">backbone.js</a>, it allows you to define html templates and fill them with live data, either taken from a server or computed in the browser with user input.</p>
-
-<p>Angular caught our attention because it integrates well with existing technologies, it doesn&#8217;t require you to move everything over at once. You can implement just part of a page in angular, if you wish, and change the rest slowly over time. It also has a very clean way of dealing with data from the server and integrating it into the page.</p>
-
-<p>Paired with a strong server-side framework like <a href="https://github.com/IgorMinar/angularjs_rails_demo">Rails, Angular</a> could be the the missing piece. The piece that takes us into a new world of truly interactive, user friendly, web apps.</p>
-
-<p>Presented by <a href="https://github.com/adevadeh">@adevadeh</a></p></li>
-</ul>
-
-
-<hr />
-
-<p>Thanks very much to our presenters for sharing. We really appreciate that you stood up to share what you&#8217;ve been working on or show us something that may help us in our daily work. We hold these meetings to learn from each other, so be sure to give yourself some time to show other developers what you have learned.</p>
-
-<h3>See you at the next meeting, scheduled for Wed,  July 18, 2012</h3>
 ]]></content>
   </entry>
   
