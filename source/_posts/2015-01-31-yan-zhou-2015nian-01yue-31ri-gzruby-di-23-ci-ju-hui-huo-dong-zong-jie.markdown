@@ -13,7 +13,7 @@ Hello Rubyist!
 先上个现场照！
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2015/964873c28826507d2a0c3d389727c225.jpg)
 
-### 主题一：李江成 -《The Opposite of "Soft"ware》
+### 主题一：李江成 -《The Opposite of "Soft"ware》  访问[讲稿网](http://jianggaowang.com/slides/63)查看讲稿
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2015/c6ca2087e7a10e69a54e15dcc55fd6be.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今天活动的第一个主题中，江成给我们带来了软件领域之外却又跟软件极其相关的领域——硬件。在主题的演讲过程中，江成介绍了自己的硬件设计开发经验。眼下正是各种智能硬件以及开源硬件如火如荼的时代，作为一个软件开发者，如何才能更好地与硬件工程师一起合作呢？
 
@@ -24,7 +24,7 @@ Hello Rubyist!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在整个过程中，硬件工程师们所做的工作，要比软件工程师麻烦许多，并且他们更多的是需要经验的积累以完成工作，但是软件又是以硬件为基础的，没有那么多优秀的硬件产品，我们的操作系统以及各种软件都是空谈。所以，江成最后以“Hardware is body, Software is the **SOUL**”作为本次演讲的结束语，并且呼吁大家在软件开发之余，也可以尝试多去了解硬件开发方面的工作。
 
-### 主题二：李璞 - 《The Secrets to App Success on WeChat》
+### 主题二：李璞 - 《The Secrets to App Success on WeChat》  访问[讲稿网](http://jianggaowang.com/slides/64)查看讲稿
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2015/2189f759cb2069d1571871762f917340.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今天的活动中，我们现场还收获了李璞的主题演讲。李璞带来的主题是关于在微信公众平台开发过程中遇到的坑以及各种填坑秘笈。
 
