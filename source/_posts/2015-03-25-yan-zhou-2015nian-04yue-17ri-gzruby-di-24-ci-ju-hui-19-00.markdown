@@ -14,12 +14,17 @@ Hello Rubyist!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;羊年的第一场 GZRuby 的聚会将定于 4 月 17 号（星期五），新的时间定为当天晚上的 19：00 - 21：30。这样的调整，是因为我们希望新的时间（周五晚的晚上）能够方便于更多的朋友加入我们的聚会。
 
-#### 活动主题
+活动主题
+===
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按照以往惯例，我们不限主题内容，我们欢迎任何与 Ruby 或者 Web 领域相关的话题或者演讲。我们还在此持续更新我们收集到的演讲主题名称，请大家保持关注。
 
-1. hooopo - **《Rails + MySQL 实现数据仓库系统》**
+1. hooopo - **《Rails + MySQL 实现数据仓库系统》**  
+2. chanshunli - **《Use Emacs To Write Your Code》**  
+3. jasli2 - **《Realtime Web - The Meteorjs Way》**  
+4. 嘉豪 - **《开放数据与 civic hacking》**  
 
-### 活动时间
+活动时间
+===
 * **时间/When:** 星期五－4月17号 19:00 / Apr 17, 19:00 PM  
 * **聚会安排:**  
     * 19:00-19:45 主题演讲
@@ -27,7 +32,8 @@ Hello Rubyist!
     * 20:00-20:45 主题演讲
     * 20:45-21:30 茶歇休息 & 自由交流
 
-### 活动报名
+活动报名
+===
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请大家及早前往[金数据](https://jinshuju.net/f/5g1yWr)填写报名信息，有演讲主题的同学也请直接在报名表上填写主题名称。
 
 ### 活动场地
@@ -40,4 +46,4 @@ Email: martin at beansmile.com
 wechat: hong_zeqin
 
 ### 以下是 GZRuby 微信群二维码
-![](https://ruby-china-files.b0.upaiyun.com/photo/2015/62d04134a8b4e2c677d95ec9ca9d2ee2.png)
+![](https://ruby-china-files.b0.upaiyun.com/photo/2015/164c2abeae3ddd8a463b06ec3935ff6c.png)
