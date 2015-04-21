@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-04-15T11:24:45+08:00</updated>
+  <updated>2015-04-21T13:40:41+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[2015年04月17日]GZRUBY 第24次聚会活动总结]]></title>
+    <link href="http://www.gzruby.org/blog/2015/04/21/2015nian-04yue-17ri-gzruby-di-24ci-ju-hui-huo-dong-zong-jie/"/>
+    <updated>2015-04-21T13:35:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2015/04/21/2015nian-04yue-17ri-gzruby-di-24ci-ju-hui-huo-dong-zong-jie</id>
+    <content type="html"><![CDATA[<p>Hi Ruby 社区的朋友们，上周五我们在广州市海珠区的 T.I.T 创意园里的 CCIC 联合文创前厅举办了 GZRUBY 的第 24 次聚会，以下简单总结下本次活动的内容：</p>
+
+<h6>1. chanshunli - 《Use Emacs To Write Your Code》</h6>
+
+<p>本次聚会的第一个演讲是由 chanshunli 带来的关于如何用 Emacs 编写代码的主题。 chanshunli 为我们现场演示了如何利用 Emacs 运行 pry 交互程序，进而可以方便我们在不离开编辑器的情况下就可以直接执行 Ruby 代码。至此还不过瘾？那直接戳：<a href="http://jianggaowang.com/slides/75">讲稿链接</a>。
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/101e8fecc5e494bde2b07be64bd304cf.jpg" alt="" /></p>
+
+<h6>2. jasli2 - 《Realtime Web - The Meteorjs Way》</h6>
+
+<p>在过完编辑器的瘾后，社区的 jasli2 为我们带来实时通信的开发框架 —— Meteorjs。在演讲中，jasli2 首先为我们讲解了实时(Realtime)的概念，并且介绍了几种常见的实现实时通信的方法，对比了几种方案的各自缺点，接着通过 WebSocket 方案引出 Meteor。jasli2 现场介绍了 Meteor 的技术栈，演示了一个简单的 Demo。最后着重分析了 Meteor 的架构设计以及几个重要的底层组件。需要了解更多内容的同学，请戳：<a href="http://jianggaowang.com/slides/77">讲稿链接</a>。
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/975d995b2ddf47cbabce5be7e38955ad.jpg" alt="" /></p>
+
+<h6>3. hooopo - 《Rails + MySQL 实现数据仓库系统》</h6>
+
+<p>千呼万唤始出来，我们的炮哥总算上场了。这次炮哥在聚会上演讲的主题正是他最近在 RubyChina 上的精华帖 —— 数据仓库系列。hooopo 在演讲中举例介绍了数据仓库中经常涉及的名词——事实、度量、维度、维度层次等。接着 hooopo 又继续介绍了分析型系统以及操作型系统的概念及其之间的异同点，介绍了星形模式以及雪花型模式，以此演示数据表的设计。最后 hooopo 也讲解了如何处理缓慢变化维度的问题。本次演讲的全部内容，请戳 <a href="http://shopperplus.github.io/blog/2015/03/28/data-warehouse-concepts-and-overview.html">hooopo 的个人博客</a>了解。
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/97b54682c384f9dd6f3a691d558972c2.jpg" alt="" /></p>
+
+<h6>4. 利嘉豪 - 《开放数据与 civic hacking》</h6>
+
+<p>聚会的压轴主题，是由利嘉豪提供的关于开放数据以及 civic hacking 的演讲。嘉豪在演讲中介绍了什么是开放数据，并且举例说明生活中常见的开放数据的例子。他还介绍了国内外现有的比较成熟的在开放数据领域工作的公益组织，比如 codeforamerica、codeforhk、g0v.org 等，以及介绍这些公益组织为公共领域所做出的贡献。在后半部分演讲中，嘉豪着重介绍了 civic hacking 以及最近正在筹备的第二届广州创客马拉松，今年的主题是 codeforgz ，将围绕开放数据展开，力求为城市建设贡献力量，同时他也邀请在场的朋友加入到实践跟宣传钟来。了解更多详情，请戳：<a href="http://jianggaowang.com/slides/76">讲稿链接</a>
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/956b63ed0b246418fde8938901093be3.jpg" alt="" /></p>
+
+<p>好了，最后按照惯例上个照！
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/79db471e1f371b88334bacf2c4ab7df2.jpg" alt="" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[广州][2015年04月17日] GZRUBY 第 24 次聚会 - 19:00]]></title>
@@ -836,61 +868,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
 
 <p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[GZRUBY7 Report]]></title>
-    <link href="http://www.gzruby.org/blog/2012/07/31/notes-from-meetup-7/"/>
-    <updated>2012-07-31T13:55:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/07/31/notes-from-meetup-7</id>
-    <content type="html"><![CDATA[<p><img src="http://www.gzruby.org/images/meetup7.jpg" style="width: 800px" alt="It really is a ruby party" title="Join us every other month!" /></p>
-
-<p>Last wednesday we had a great turnout for the 7th gzruby meetup! It was a blast with tons of great people, some nice talks, and a lot of fun. I&#8217;d say this last event was maybe more of a ruby party than a developer meeting, and that&#8217;s not a bad thing!</p>
-
-<p>It&#8217;s been a year since our first event, and already we&#8217;ve seen several projects started by members of our group referring clients to one another, or working together on a big project. We started this event to enable this kind of cooperation, and we couldn&#8217;t be happier that we have been successful. Remember, the more ruby projects get done here in South China, the more people will be interested to start new projects, and we all do better!</p>
-
-<p>Its great to continuously meet new members, and to reconnect with the old ones. Lets spread the word and make <strong>gzruby</strong> a great place for all of us to find friends, learn from each other, and do great business together!</p>
-
-<p><a href="http://weibo.com/strandbeer">Strand Beer</a> once again supplied us with plenty of homebrew goodness. Keep making that great beer fine ruby fellow!</p>
-
-<ul>
-<li><p><strong>Integrating Rails with Wordpress <a href="http://thenanfang.com">http://thenanfang.com</a></strong></p>
-
-<p>Leon presented his company&#8217;s latest project (a <a href="http://gzruby.com">gzruby</a> connection): <a href="http://thenanfang.com">TheNanfang.com</a>. He described how he and his team were able to use Rails to win the project, by building a very rapid working prototype. After winning the project, they were able to execute and complete the project on time using standard Rails best practices and good old hard work. Leon and Rain also described how they were able to marry the de-facto blogging platform WordPress into their Rails site. We are all proud of their work and its an excellent addition to the group of ruby projects based here in South China. Great job <a href="http://beansmile.com">beansmile</a>!</p>
-
-<p>Presented by <a href="http://beansmile.com">Leon Du</a></p></li>
-<li><p><strong>Introducing FriendsMap.net <a href="http://friendsmap.net">http://friendsmap.net</a></strong></p>
-
-<p> <a href="http://www.weibo.com/n/cantin_">@cantin_</a> just released <a href="http://friendsmap.net">FriendsMap.net</a>, a toy project that displays your social network friends on a map. He gave a short talk about what he used to put it together, and gave a quick demo.</p>
-
-<p> It is a project to pratice using the OAuth2 APIs and google maps. You can now use the site to find your Facebook, Twitter, QQ, and your Sina Weibo friends. There is a China version that works with Weibo and Baidu maps, or you if available to you, you can use Google Maps to location friends around the world.</p>
-
-<p>Presented by <a href="https://github.com/cantin">Cantin Xu</a></p></li>
-<li><p><strong>Explaining Session hijacking and why we need CSRF protection <a href="http://guides.rubyonrails.org/security.html">http://guides.rubyonrails.org/security.html</a></strong></p>
-
-<p><a href="https://github.com/jevgz">@jevgz</a> showed us how easy it is for an attacker to create a site that could change the user&#8217;s password just by mousing over a link. He showed us step by step what can happen if you don&#8217;t follow Rails best practices and leave your site open to attack. Its a stark reminder of how to important it is to stay on top of current security trends. It was also a great explanation on why we need the CSRF tags in our Rails projects. If you haven&#8217;t read the <a href="http://guides.rubyonrails.org/security.html">Rails security guide</a>, I suggest you do so soon.</p>
-
-<p>Presented by <a href="https://github.com/jevgz">@jevgz</a></p></li>
-<li><p><strong>Textilize <a href="http://github.com/kudelabs/textilize/">http://github.com/kudelabs/textilize/</a></strong></p>
-
-<p><a href="http://www.weibo.com/ifosen">@ifosen</a> recently released a new gem that provides the Rails 2.x textilize helper methods in Rails 3.x. In case you are updating an older app that relied on these functions, you can simply drop this gem into your Gemfile and you&#8217;re ready to go. There are other gems that already do this, but these gems utilize the latest version of Redcloth, which is (in our opinion) unneccessarily large and complicated, requiring native extensions to be compiled. Textilize avoids this extra dependency by including the original RedCloth.rb written by _why.</p>
-
-<p>@adevadeh stressed the importance of anlysing your gemfile to reduce external dependencies. Make sure that everything you rely on in something you really need. Also, don&#8217;t be afraid to publish a gem, even if its a small one. You never know who else might find it useful, and you may get something back you never expected!</p>
-
-<p>Presented by <a href="https://github.com/mysen">Mysen</a> and <a href="https://github.com/adevadeh">@adevadeh</a></p></li>
-</ul>
-
-
-<hr />
-
-<p>Thanks very much to our presenters for sharing. We really appreciate that you stood up to share what you&#8217;ve been working on or show us something that may help us in our daily work. We hold these meetings to learn from each other, so be sure to give yourself some time to show other developers what you have learned.</p>
-
-<h3>See you at the next meeting, scheduled for <strong>Wed,  September 19, 2012</strong></h3>
-
-<h3>Follow <a href="http://www.weibo.com/gzruby">@gzruby</a> on Sina Weibo!</h3>
-
-<p><img src="http://www.gzruby.org/images/meetup7-2.jpg" style="width: 800px" alt="It really is a ruby party" title="Join us every other month!" /></p>
 ]]></content>
   </entry>
   
