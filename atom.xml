@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-04-21T13:40:41+08:00</updated>
+  <updated>2015-05-07T08:48:49+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[2015年05月16日] GZRUBY 第 25 次聚会 - 15:00]]></title>
+    <link href="http://www.gzruby.org/blog/2015/05/07/gzruby-di-25-ci-ju-hui-15-00/"/>
+    <updated>2015-05-07T08:45:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2015/05/07/gzruby-di-25-ci-ju-hui-15-00</id>
+    <content type="html"><![CDATA[<p>Hello Rubyist!</p>
+
+<p>距离<a href="https://ruby-china.org/topics/25222">上一次聚会</a> 已经过去挺长时间了，这阵子大家是不是跟 Martin 一样忙呢？😊但是大家忙归忙，技术交流聚会还是少不了的，本月的聚会就定在下个星期六（5.16）下午的 3:00 ，地点还是在 CCiC 联合文创。</p>
+
+<p>本月继续面向各位社区里的朋友征集演讲主题，主题内容不限，请大家踊跃报名，我们也会争取为每一位讲师送出我们的精美礼品！</p>
+
+<h3>活动时间</h3>
+
+<ul>
+<li>时间/When: 星期六－5月16号 15:00 / May 16, 15:00 PM</li>
+<li>聚会安排:
+
+<ul>
+<li>15:00-15:45 主题演讲</li>
+<li>15:45-16:00 茶歇休息</li>
+<li>16:00-16:45 主题演讲</li>
+<li>16:40-17:30 茶歇休息 &amp; 自由交流</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>活动场地</h3>
+
+<ul>
+<li>地点/Where: <a href="http://map.qq.com/?type=marker&amp;isopeninfowin=1&amp;markertype=1&amp;name=%E4%B8%AD%E5%9B%BD%2C%E5%B9%BF%E4%B8%9C%E7%9C%81%2C%E5%B9%BF%E5%B7%9E%E5%B8%82%2C%E6%B5%B7%E7%8F%A0%E5%8C%BA&amp;addr=%E8%89%BA%E8%8B%91%E8%B7%AF106%E5%8F%B7%E6%96%B0%E8%A1%97%E5%A4%B4%E6%9D%91&amp;pointy=23.098996&amp;pointx=113.325283&amp;coord=23.098996%2C113.325283&amp;nodata_redirect=1">广东省广州市海珠区新港中路397号T.I.T创意园创意大道06号 CCIC联合文创</a> （因为百度地图没有此处地址数据，需要导航的建议用腾讯地图）</li>
+<li>地铁/Metro: 客村A出口/Line 3 - Ke Cun, Exit A<br/>
+<img src="https://ruby-china-files.b0.upaiyun.com/photo/2014/e8a6d49d28fc355e2f55675e7abc0e19.png" alt="步行导航" /></li>
+</ul>
+
+
+<h3>活动报名</h3>
+
+<p>本月的活动我们仍旧会在<a href="https://jinshuju.net/f/rYJ0p6">金数据</a>上收集报名信息，请大家及早报名，有演讲主题的同学也请直接在报名表上填写主题名称。</p>
+
+<h3>联系方式</h3>
+
+<p>Email: martin at beansmile.com<br/>
+wechat: hong_zeqin</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[2015年04月17日]GZRUBY 第24次聚会活动总结]]></title>
@@ -839,29 +886,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
 
 <h4><a href="http://gz.o.cn/13105">59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601</a></h4>
-
-<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
-
-<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
-
-<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sept 19, 2012 - GZRUBY Pizza Party]]></title>
-    <link href="http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8/"/>
-    <updated>2012-09-18T17:26:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/09/18/invite-to-meetup-number-8</id>
-    <content type="html"><![CDATA[<p>Hello ruby friends! It&#8217;s time for us to get together again. We just realized it has been a year since our first ruby meetup, and we think its time to <strong>celebrate</strong>!</p>
-
-<p>For meetup #8, we are having a <strong>pizza party</strong>! Come on, invite anyone who might be interested in ruby or web-development. We&#8217;ll have pizza and some beer. If you can bring a few drinks or other snaks, that will make the party better.</p>
-
-<p>Rather than spend all our time talking about code, lets have some fun time with our community; get to know each other, and have a good time!</p>
-
-<h4>时间/When: September 19, 7:00 PM</h4>
-
-<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
 
 <h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
 
