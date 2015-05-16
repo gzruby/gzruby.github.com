@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-05-15T08:48:38+08:00</updated>
+  <updated>2015-05-16T15:22:45+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -42,8 +42,9 @@
 
 <h3>已报名主题</h3>
 
-<p>Steve Chan -《Rspec源码初探及如何构建一个沙箱测试》<br/>
-Martin - 《state_machine vs workflow》</p>
+<p>Martin - 《state_machine vs workflow》<br/>
+Miracle - 《Go for Rubyists》<br/>
+Kevin - 《一分钟学做 keynote》</p>
 
 <h3>活动场地</h3>
 
