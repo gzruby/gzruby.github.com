@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-05-16T15:22:45+08:00</updated>
+  <updated>2015-08-05T22:21:41+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[2015年07月22日]GZRUBY 第26次聚会活动总结]]></title>
+    <link href="http://www.gzruby.org/blog/2015/08/04/2015nian-07yue-22ri-gzruby-di-26ci-ju-hui-huo-dong-zong-jie/"/>
+    <updated>2015-08-04T22:45:00+08:00</updated>
+    <id>http://www.gzruby.org/blog/2015/08/04/2015nian-07yue-22ri-gzruby-di-26ci-ju-hui-huo-dong-zong-jie</id>
+    <content type="html"><![CDATA[<p>广州的Rubyist们，7月份的总结来了!</p>
+
+<p>7月22日我们在广州市海珠区的 T.I.T 创意园里的 CCIC 联合文创前厅举办了 GZRUBY 的第 26 次聚会，以下是本次活动的总结：</p>
+
+<h3>1. 邓怀涛 - 《Ruby与微信开发那些事》</h3>
+
+<p>首先是由<a href="https://github.com/lanrion">邓怀涛</a>带来的微信开发那些事儿，邓怀涛是一系列流行的微信开发gem的作者，例如 <a href="https://github.com/lanrion/weixin_rails_middleware">weixin_rails_middleware</a> 和 <a href="https://github.com/lanrion/weixin_authorize">weixin_authorize</a>等等。这些gem在国内有不少的使用者，包括一些已经初具规模的公司，有着广泛的影响。</p>
+
+<p>邓怀涛的演讲中主要介绍了微信相关的系列gem，以及做这一系列开源gem的初衷。同时他也分享了在做开源项目的一些感受，例如一个人维护代码库的辛苦，命名gem时（weixin_authorize）的纠结，由于时间和精力的限制导致的测试不够完备和文档不完备的问题。当然也少不了针对微信开发平台的吐槽，例如客服不专业，回答问题永远回答不到点上。文档往往成为&#8221;文挡&#8221;，不是敲门砖，而是拦路虎等等。我们也期待大家能够一起动手来维护和完善这些开源项目，众人拾柴火焰高，一起把微信开发的生态圈活跃起来。</p>
+
+<h3>2. Rain Chen - 《友约v0.4的开发经验总结 for gzruby》</h3>
+
+<p>接下来的主题是两个当红技术的结合，当微信开发平台遇到炙手可热的React之后，会擦出怎样的火花？<a href="https://github.com/rainchen">Rain Chen</a>是<a href="http://beansmile.com/">Beansmile</a>团队CTO，专注Web开发已有十余年经验。最近Beansmile在自己的内部项目<a href="http://youyue.so/">友约</a>中尝试了使用React进行微信开发，这次分享就是开发过程中的经验总结。</p>
+
+<p>Rain 首先介绍了友约项目的由来，为什么要打造一款基于微信平台的朋友聚会签到工具。接下来的技术部分，主要讲到了微信平台的一些限制，例如只有备案之后才能在分享到朋友圈的页面直行js代码，非常见的 *.so 域名不能通过校验，如果说天朝已经是Hell模式，某种意义上微信平台是Hell+模式。此外看起来很美的模板消息在使用起来时也是诸多限制。除了和上面邓怀涛提到的一样的文档不清晰问题之外，Rain还着重探讨了如何调试微信平台应用。</p>
+
+<p>和React结合部分，Rain重点提到了自定义的Img这个component以及为此开发的一个gem <a href="https://github.com/beansmile/react-rails-img">react-rails-img</a>，欢迎Ruby党使用。此外Rain还探讨了form field默认值问题(数据双向绑定)以及component之间的通讯问题，详细内容可以从文末的讲稿下载链接中获取。</p>
+
+<h3>3. 杜小龙 [aka Kevin Du] - 《关于微信开发的一些思考》</h3>
+
+<p>Kevin是<a href="http://beansmile.com/">Beansmile</a>团队的产品经理，目前负责团队内部的&#8221;班级助手&#8221;项目开发。班级助手是一款基于微信的通知工具，Kevin在打磨这款产品的时候，也对微信开放平台上适合做什么产品，适合什么样的场景做了深入的思考。</p>
+
+<p>Kevin的分享主要讲述了订阅号、服务号、企业号的不同，这些不同和限制分别会引导用户怎样使用基于微信平台开发出来的应用。对于订阅号，更多的是运营的需要，以内容来支撑。对于服务号，更多的是以推送功能为主，以推送消息触发用户使用。而企业号则是企业内部沟通的平台，但是企业号面临的挑战是工作生活分不开，这样会对部分用户产生干扰，毕竟微信的口号是一种&#8221;生活&#8221;方式，工作的内容掺杂进来是否合适，这是个值得探讨的话题。</p>
+
+<p>延伸阅读：《<a href="http://www.jianshu.com/p/cdfc11ab579d?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note&amp;utm_source=weixin-timeline&amp;from=timeline&amp;isappinstalled=1">微信会取代哪些app？</a>》</p>
+
+<h3>4. 校寻团队 - 《校寻互联网推广》</h3>
+
+<p>这是GZRuby为数不多的非技术性话题，以前GZRuby关注纯技术内容比较多，这次由校寻团队带来的推广案例也让大家得以管窥项目落地推广的流程，并能够对推广（尤其是校园推广）的成本有个大致的了解。</p>
+
+<p>校寻团队的介绍从&#8221;小猪导航&#8221;这样的具体案例入手，说明即便是技术没有压倒性的优势，凭借着敏锐的市场嗅觉和良好的推广效果，还是能在市场上占据一席之地。接下来的推广方式介绍中，特别对比了扫楼、摆摊、社团、网络以及微信公众号等方式的投入产出比，相信对大家以后的产品推广有一定的借鉴意义。</p>
+
+<h3>小结和预告</h3>
+
+<p>以上就是本次活动的小结，下次GZRuby的活动和本月的<a href="http://railsgirls.com/guangzhou">RailsGirls</a>活动合办，希望大家踊跃报名，帮助女性朋友进入到程序开发的美妙世界！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[2015年05月16日] GZRUBY 第 25 次聚会 - 15:00]]></title>
@@ -863,31 +906,6 @@ We look forward to seeing you there! If you have any topic ideas or plans, let u
 <p>There&#8217;s also been some discussion on the mailing list about how to organize these meetings and make our community better. One suggestion was to give each meeting a theme, to make it easier for people to suggest topics. This month&#8217;s theme will be <strong>Asset Pipeline</strong>. How do you use it for your project? SASS, SCSS, LESS? Bootstrap, YUI? Bring your best practices, tips and tricks for us to share and learn from.</p>
 
 <h4>时间/When: 星期三－1月16号 19:30 / January 16, 7:30 PM</h4>
-
-<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
-
-<h4><a href="http://gz.o.cn/13105">59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601</a></h4>
-
-<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
-
-<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
-
-<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第9聚会 － GZRUBY9 - Wed Nov 21]]></title>
-    <link href="http://www.gzruby.org/blog/2012/11/14/nov-21/"/>
-    <updated>2012-11-14T18:06:00+08:00</updated>
-    <id>http://www.gzruby.org/blog/2012/11/14/nov-21</id>
-    <content type="html"><![CDATA[<p>Hello ruby warriors! Time flies when you are having fun, doesn&#8217;t it? After our especially excellent social event in September, its time now to get back to code and have a great tech talk.</p>
-
-<p>In the ruby world, quite a few things have come up recently, and more is around the corner. <a href="http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/">Ruby 1.9.3-p327 is out</a>, <a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46258">Ruby 2.0 is feature frozen</a>, and <a href="http://vimeo.com/51181496">Rails 4.0 is coming soon</a>! With all this going on in the ruby and Rails community, what have <strong>you</strong> been working on?</p>
-
-<p>This month&#8217;s event is sponsored by <a href="http://beansmile.com">Beansmile</a> and <a href="http://weibo.com/strandbeer">Strand Beer</a>.</p>
-
-<h4>时间/When: 星期三－11月21号 19:00 /  November 21, 7:30 PM</h4>
 
 <h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
 

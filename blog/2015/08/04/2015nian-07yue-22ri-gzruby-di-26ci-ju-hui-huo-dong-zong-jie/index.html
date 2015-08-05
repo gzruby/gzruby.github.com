@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>GZRUBY第10聚会1月16日7:30 - Asset Pipeline - gzruby</title>
+  <title>[2015年07月22日]GZRUBY 第26次聚会活动总结 - gzruby</title>
   <meta name="author" content="gzruby">
 
   
-  <meta name="description" content="各位，是时候再次聚会了！本月的gzruby meetup将会在2013年1月16号（下个星期三）7点半在酷德实验室准时举行。记得在你的日历上标记噢。 Yes, check your calenders! It&#8217;s ruby time folks. This month&#8217;s &hellip;">
+  <meta name="description" content="广州的Rubyist们，7月份的总结来了! 7月22日我们在广州市海珠区的 T.I.T 创意园里的 CCIC 联合文创前厅举办了 GZRUBY 的第 26 次聚会，以下是本次活动的总结： 1. 邓怀涛 - 《Ruby与微信开发那些事》 首先是由邓怀涛带来的微信开发那些事儿， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10">
+  <link rel="canonical" href="http://www.gzruby.org/blog/2015/08/04/2015nian-07yue-22ri-gzruby-di-26ci-ju-hui-huo-dong-zong-jie">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -81,7 +81,7 @@
   
   <header>
     
-      <h1 class="entry-title">GZRUBY第10聚会1月16日7:30 - Asset Pipeline</h1>
+      <h1 class="entry-title">[2015年07月22日]GZRUBY 第26次聚会活动总结</h1>
     
     
       <p class="meta">
@@ -97,37 +97,48 @@
   
 
 
-<time datetime="2013-01-09T16:15:00+08:00" pubdate data-updated="true">Jan 9<span>th</span>, 2013</time>
+<time datetime="2015-08-04T22:45:00+08:00" pubdate data-updated="true">Aug 4<span>th</span>, 2015</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>各位，是时候再次聚会了！本月的gzruby meetup将会在2013年1月16号（下个星期三）7点半在酷德实验室准时举行。记得在你的日历上标记噢。</p>
+<div class="entry-content"><p>广州的Rubyist们，7月份的总结来了!</p>
 
-<p>Yes, check your calenders! It&#8217;s ruby time folks. This month&#8217;s gzruby meetup will be held next Wednesday, Jan 16th at the Kudelabs offices, starting at 7:30.</p>
+<p>7月22日我们在广州市海珠区的 T.I.T 创意园里的 CCIC 联合文创前厅举办了 GZRUBY 的第 26 次聚会，以下是本次活动的总结：</p>
 
-<p>最近我们遇到了很多刺激的事情。Rails在短短几天内发布了两个紧急安全补丁，分别是<a href="http://weblog.rubyonrails.org/2013/1/2/Rails-3-2-10--3-1-9--and-3-0-18-have-been-released/">SQL 注入漏洞</a>;  <a href="http://weblog.rubyonrails.org/2013/1/8/Rails-3-2-11-3-1-10-3-0-19-and-2-3-15-have-been-released/">XML 参数解析漏洞</a>。另外Ruby也发布了最新的1.9.3升级：<a href="http://www.ruby-lang.org/en/news/2012/12/25/ruby-1-9-3-p362-is-released/">ruby1.9.3-p362</a>。
-仅仅这些都够我们忙活好一阵的了。</p>
+<h3>1. 邓怀涛 - 《Ruby与微信开发那些事》</h3>
 
-<p>We&#8217;ve had a bit of excitement recently, with two security updates in quick succession. First the <a href="http://weblog.rubyonrails.org/2013/1/2/Rails-3-2-10--3-1-9--and-3-0-18-have-been-released/">SQL Injection vulnerability</a>, then the <a href="http://weblog.rubyonrails.org/2013/1/8/Rails-3-2-11-3-1-10-3-0-19-and-2-3-15-have-been-released/">XML params vulnerability</a>. Don&#8217;t forget a new ruby patchlevel just came out as well, <a href="http://www.ruby-lang.org/en/news/2012/12/25/ruby-1-9-3-p362-is-released/">ruby1.9.3-p362</a>. These should all keep us busy for the rest of the week testing and upgrading our deployed servers.</p>
+<p>首先是由<a href="https://github.com/lanrion">邓怀涛</a>带来的微信开发那些事儿，邓怀涛是一系列流行的微信开发gem的作者，例如 <a href="https://github.com/lanrion/weixin_rails_middleware">weixin_rails_middleware</a> 和 <a href="https://github.com/lanrion/weixin_authorize">weixin_authorize</a>等等。这些gem在国内有不少的使用者，包括一些已经初具规模的公司，有着广泛的影响。</p>
 
-<p>同时在我们的邮件列表也有人在讨论怎么更好的组织聚会，怎么让我们变得更好。其中有一个建议是每次聚会都提出一个主题，以便让我们更好的组织演讲内容。这个月的主题是关于<strong>Asset Pipeline</strong>的使用。你是怎么在你的项目运用它的？SASS, SCSS, LESS? Bootstrap, YUI？如果你想分享你的经验的话，那就赶紧准备好你的演讲吧！</p>
+<p>邓怀涛的演讲中主要介绍了微信相关的系列gem，以及做这一系列开源gem的初衷。同时他也分享了在做开源项目的一些感受，例如一个人维护代码库的辛苦，命名gem时（weixin_authorize）的纠结，由于时间和精力的限制导致的测试不够完备和文档不完备的问题。当然也少不了针对微信开发平台的吐槽，例如客服不专业，回答问题永远回答不到点上。文档往往成为&#8221;文挡&#8221;，不是敲门砖，而是拦路虎等等。我们也期待大家能够一起动手来维护和完善这些开源项目，众人拾柴火焰高，一起把微信开发的生态圈活跃起来。</p>
 
-<p>There&#8217;s also been some discussion on the mailing list about how to organize these meetings and make our community better. One suggestion was to give each meeting a theme, to make it easier for people to suggest topics. This month&#8217;s theme will be <strong>Asset Pipeline</strong>. How do you use it for your project? SASS, SCSS, LESS? Bootstrap, YUI? Bring your best practices, tips and tricks for us to share and learn from.</p>
+<h3>2. Rain Chen - 《友约v0.4的开发经验总结 for gzruby》</h3>
 
-<h4>时间/When: 星期三－1月16号 19:30 / January 16, 7:30 PM</h4>
+<p>接下来的主题是两个当红技术的结合，当微信开发平台遇到炙手可热的React之后，会擦出怎样的火花？<a href="https://github.com/rainchen">Rain Chen</a>是<a href="http://beansmile.com/">Beansmile</a>团队CTO，专注Web开发已有十余年经验。最近Beansmile在自己的内部项目<a href="http://youyue.so/">友约</a>中尝试了使用React进行微信开发，这次分享就是开发过程中的经验总结。</p>
 
-<h4>地点/Where: <a href="http://gz.o.cn/13105">Kudelabs 明月一路59号, 汉苑 西塔601</a></h4>
+<p>Rain 首先介绍了友约项目的由来，为什么要打造一款基于微信平台的朋友聚会签到工具。接下来的技术部分，主要讲到了微信平台的一些限制，例如只有备案之后才能在分享到朋友圈的页面直行js代码，非常见的 *.so 域名不能通过校验，如果说天朝已经是Hell模式，某种意义上微信平台是Hell+模式。此外看起来很美的模板消息在使用起来时也是诸多限制。除了和上面邓怀涛提到的一样的文档不清晰问题之外，Rain还着重探讨了如何调试微信平台应用。</p>
 
-<h4><a href="http://gz.o.cn/13105">59 Ming Yue Yi Lu, Han Yuan West Tower, Apt. 601</a></h4>
+<p>和React结合部分，Rain重点提到了自定义的Img这个component以及为此开发的一个gem <a href="https://github.com/beansmile/react-rails-img">react-rails-img</a>，欢迎Ruby党使用。此外Rain还探讨了form field默认值问题(数据双向绑定)以及component之间的通讯问题，详细内容可以从文末的讲稿下载链接中获取。</p>
 
-<h4>地铁/Metro: <a href="http://www.exploregz.com/metro/pedia/station/wuyangcun/">五羊村A出口/Line 5 - Wu Yang Cun, Exit A</a></h4>
+<h3>3. 杜小龙 [aka Kevin Du] - 《关于微信开发的一些思考》</h3>
 
-<p>希望到时能见到你的身影！如果你有什么好的想法，发到<a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">邮件列表</a>告诉我们吧!</p>
+<p>Kevin是<a href="http://beansmile.com/">Beansmile</a>团队的产品经理，目前负责团队内部的&#8221;班级助手&#8221;项目开发。班级助手是一款基于微信的通知工具，Kevin在打磨这款产品的时候，也对微信开放平台上适合做什么产品，适合什么样的场景做了深入的思考。</p>
 
-<p>We look forward to seeing you there! If you have any topic ideas or plans, let us know on the <a href="https://groups.google.com/forum/?fromgroups#!forum/gzruby">mailing list</a>.</p>
+<p>Kevin的分享主要讲述了订阅号、服务号、企业号的不同，这些不同和限制分别会引导用户怎样使用基于微信平台开发出来的应用。对于订阅号，更多的是运营的需要，以内容来支撑。对于服务号，更多的是以推送功能为主，以推送消息触发用户使用。而企业号则是企业内部沟通的平台，但是企业号面临的挑战是工作生活分不开，这样会对部分用户产生干扰，毕竟微信的口号是一种&#8221;生活&#8221;方式，工作的内容掺杂进来是否合适，这是个值得探讨的话题。</p>
+
+<p>延伸阅读：《<a href="http://www.jianshu.com/p/cdfc11ab579d?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note&amp;utm_source=weixin-timeline&amp;from=timeline&amp;isappinstalled=1">微信会取代哪些app？</a>》</p>
+
+<h3>4. 校寻团队 - 《校寻互联网推广》</h3>
+
+<p>这是GZRuby为数不多的非技术性话题，以前GZRuby关注纯技术内容比较多，这次由校寻团队带来的推广案例也让大家得以管窥项目落地推广的流程，并能够对推广（尤其是校园推广）的成本有个大致的了解。</p>
+
+<p>校寻团队的介绍从&#8221;小猪导航&#8221;这样的具体案例入手，说明即便是技术没有压倒性的优势，凭借着敏锐的市场嗅觉和良好的推广效果，还是能在市场上占据一席之地。接下来的推广方式介绍中，特别对比了扫楼、摆摊、社团、网络以及微信公众号等方式的投入产出比，相信对大家以后的产品推广有一定的借鉴意义。</p>
+
+<h3>小结和预告</h3>
+
+<p>以上就是本次活动的小结，下次GZRuby的活动和本月的<a href="http://railsgirls.com/guangzhou">RailsGirls</a>活动合办，希望大家踊跃报名，帮助女性朋友进入到程序开发的美妙世界！</p>
 </div>
 
 
@@ -150,7 +161,7 @@
   
 
 
-<time datetime="2013-01-09T16:15:00+08:00" pubdate data-updated="true">Jan 9<span>th</span>, 2013</time>
+<time datetime="2015-08-04T22:45:00+08:00" pubdate data-updated="true">Aug 4<span>th</span>, 2015</time>
       
 
 
@@ -165,10 +176,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2012/11/14/nov-21/" title="Previous Post: 第9聚会 － GZRUBY9 - Wed Nov 21">&laquo; 第9聚会 － GZRUBY9 - Wed Nov 21</a>
+        <a class="basic-alignment left" href="/blog/2015/05/07/gzruby-di-25-ci-ju-hui-15-00/" title="Previous Post: [2015年05月16日] GZRUBY 第 25 次聚会 - 15:00">&laquo; [2015年05月16日] GZRUBY 第 25 次聚会 - 15:00</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/03/15/invite-to-gzruby11/" title="next Post: GZRUBY#11 March 20 - 7:30PM - Ruby 2.0">GZRUBY#11 March 20 - 7:30PM - Ruby 2.0 &raquo;</a>
       
     </p>
   </footer>
@@ -257,8 +266,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10/';
-        var disqus_url = 'http://www.gzruby.org/blog/2013/01/09/invite-for-gzruby10/';
+        var disqus_identifier = 'http://www.gzruby.org/blog/2015/08/04/2015nian-07yue-22ri-gzruby-di-26ci-ju-hui-huo-dong-zong-jie/';
+        var disqus_url = 'http://www.gzruby.org/blog/2015/08/04/2015nian-07yue-22ri-gzruby-di-26ci-ju-hui-huo-dong-zong-jie/';
         var disqus_script = 'embed.js';
       
     (function () {
