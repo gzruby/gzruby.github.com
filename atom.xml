@@ -4,7 +4,7 @@
   <title><![CDATA[gzruby]]></title>
   <link href="http://www.gzruby.org/atom.xml" rel="self"/>
   <link href="http://www.gzruby.org/"/>
-  <updated>2015-08-05T22:21:41+08:00</updated>
+  <updated>2015-08-05T23:04:06+08:00</updated>
   <id>http://www.gzruby.org/</id>
   <author>
     <name><![CDATA[gzruby]]></name>
@@ -28,13 +28,19 @@
 
 <p>邓怀涛的演讲中主要介绍了微信相关的系列gem，以及做这一系列开源gem的初衷。同时他也分享了在做开源项目的一些感受，例如一个人维护代码库的辛苦，命名gem时（weixin_authorize）的纠结，由于时间和精力的限制导致的测试不够完备和文档不完备的问题。当然也少不了针对微信开发平台的吐槽，例如客服不专业，回答问题永远回答不到点上。文档往往成为&#8221;文挡&#8221;，不是敲门砖，而是拦路虎等等。我们也期待大家能够一起动手来维护和完善这些开源项目，众人拾柴火焰高，一起把微信开发的生态圈活跃起来。</p>
 
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/5696ec7c58ec7bf6bd5543374fae3c3f.jpg" alt="" /></p>
+
 <h3>2. Rain Chen - 《友约v0.4的开发经验总结 for gzruby》</h3>
 
 <p>接下来的主题是两个当红技术的结合，当微信开发平台遇到炙手可热的React之后，会擦出怎样的火花？<a href="https://github.com/rainchen">Rain Chen</a>是<a href="http://beansmile.com/">Beansmile</a>团队CTO，专注Web开发已有十余年经验。最近Beansmile在自己的内部项目<a href="http://youyue.so/">友约</a>中尝试了使用React进行微信开发，这次分享就是开发过程中的经验总结。</p>
 
-<p>Rain 首先介绍了友约项目的由来，为什么要打造一款基于微信平台的朋友聚会签到工具。接下来的技术部分，主要讲到了微信平台的一些限制，例如只有备案之后才能在分享到朋友圈的页面直行js代码，非常见的 *.so 域名不能通过校验，如果说天朝已经是Hell模式，某种意义上微信平台是Hell+模式。此外看起来很美的模板消息在使用起来时也是诸多限制。除了和上面邓怀涛提到的一样的文档不清晰问题之外，Rain还着重探讨了如何调试微信平台应用。</p>
+<p>Rain 首先介绍了友约项目的由来，为什么要打造一款基于微信平台的朋友聚会签到工具。接下来的技术部分，主要讲到了微信平台的一些限制，例如只有备案之后才能在分享到朋友圈的页面执行js代码，非常见的 *.so 域名不能通过校验，如果说天朝已经是Hell模式，某种意义上微信平台是Hell+模式。此外看起来很美的模板消息在使用起来时也是诸多限制。除了和上面邓怀涛提到的一样的文档不清晰问题之外，Rain还着重探讨了如何调试微信平台应用。</p>
 
 <p>和React结合部分，Rain重点提到了自定义的Img这个component以及为此开发的一个gem <a href="https://github.com/beansmile/react-rails-img">react-rails-img</a>，欢迎Ruby党使用。此外Rain还探讨了form field默认值问题(数据双向绑定)以及component之间的通讯问题，详细内容可以从文末的讲稿下载链接中获取。</p>
+
+<p>ps，图中有彩蛋</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/93e2c85b45e3b2dcfad1abb97d00198f.jpg" alt="" /></p>
 
 <h3>3. 杜小龙 [aka Kevin Du] - 《关于微信开发的一些思考》</h3>
 
@@ -44,15 +50,25 @@
 
 <p>延伸阅读：《<a href="http://www.jianshu.com/p/cdfc11ab579d?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note&amp;utm_source=weixin-timeline&amp;from=timeline&amp;isappinstalled=1">微信会取代哪些app？</a>》</p>
 
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/9206cb34dfc52a64049a8d2b72b31e03.jpg" alt="" /></p>
+
 <h3>4. 校寻团队 - 《校寻互联网推广》</h3>
 
 <p>这是GZRuby为数不多的非技术性话题，以前GZRuby关注纯技术内容比较多，这次由校寻团队带来的推广案例也让大家得以管窥项目落地推广的流程，并能够对推广（尤其是校园推广）的成本有个大致的了解。</p>
 
 <p>校寻团队的介绍从&#8221;小猪导航&#8221;这样的具体案例入手，说明即便是技术没有压倒性的优势，凭借着敏锐的市场嗅觉和良好的推广效果，还是能在市场上占据一席之地。接下来的推广方式介绍中，特别对比了扫楼、摆摊、社团、网络以及微信公众号等方式的投入产出比，相信对大家以后的产品推广有一定的借鉴意义。</p>
 
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/a9060293854a75c35066c399a3eb9cfc.jpg" alt="" /></p>
+
+<p>放一些现场照片</p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/d9a429949bea327a0e6410b2daed3f2c.jpg" alt="" /></p>
+
+<p><img src="https://ruby-china-files.b0.upaiyun.com/photo/2015/0eed1b45cc51454049905e208d8ce57a.jpg" alt="" /></p>
+
 <h3>小结和预告</h3>
 
-<p>以上就是本次活动的小结，下次GZRuby的活动和本月的<a href="http://railsgirls.com/guangzhou">RailsGirls</a>活动合办，希望大家踊跃报名，帮助女性朋友进入到程序开发的美妙世界！</p>
+<p>本次活动的讲稿可以从<a href="http://pan.baidu.com/s/1bnfQvpX">这里</a>下载，下次GZRuby的活动和本月的<a href="http://railsgirls.com/guangzhou">RailsGirls</a>活动合办，希望大家踊跃报名，帮助女性朋友进入到程序开发的美妙世界！</p>
 ]]></content>
   </entry>
   
